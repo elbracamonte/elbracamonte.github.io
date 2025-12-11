@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ page.title }} | El México Bárbaro</title>
+
+  {%- seo -%}
+
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body>
+  <header>
+    <nav class="top-nav">
+      <a class="brand" href="/">El México Bárbaro</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>© {{ site.time | date: "%Y" }} El México Bárbaro — Archivo vivo de la cultura mexicana.</p>
+  </footer>
+</body>
+</html>
