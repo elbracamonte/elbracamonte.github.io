@@ -1,0 +1,24 @@
+title: "El México Bárbaro"
+description: "Archivo vivo de la cultura mexicana: tradiciones, gastronomía e historia."
+url: "https://elmexicobarbaro.com"
+baseurl: "" # porque es un User Site, no subcarpeta
+lang: "es-MX"
+
+theme: minima
+
+# Plugins disponibles en GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Enlaces de navegación (luego los ajustaremos)
+header_pages:
+  - index.md
+
+# Configuración de Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Configuración de posts
+permalink: /:categories/:title/
