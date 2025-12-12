@@ -6,19 +6,25 @@ title: Tradiciones
 <h1>Tradiciones</h1>
 
 <p>
-Las tradiciones mexicanas son la expresión viva de una identidad construida a través de siglos.
+Las tradiciones mexicanas son la expresión viva de una identidad construida a lo largo de siglos.
+En ellas conviven raíces indígenas, herencias coloniales y transformaciones contemporáneas que
+dan forma a la vida comunitaria y simbólica del país.
 </p>
 
 <section class="post-list">
-  {% for post in site.categories.tradiciones %}
-    <article class="post-item">
-      <h2>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </h2>
-      <p class="post-meta">
-        {{ post.date | date: "%d de %B de %Y" }}
-      </p>
-      <p>{{ post.excerpt }}</p>
-    </article>
-  {% endfor %}
+  {% if site.categories.tradiciones %}
+    {% for post in site.categories.tradiciones %}
+      <article class="post-item">
+        <h2>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        <p class="post-meta">
+          {{ post.date | date: "%d de %B de %Y" }}
+        </p>
+        <p>{{ post.excerpt }}</p>
+      </article>
+    {% endfor %}
+  {% else %}
+    <p>Aún no hay artículos publicados en esta sección.</p>
+  {% endif %}
 </section>
