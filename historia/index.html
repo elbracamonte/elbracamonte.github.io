@@ -6,19 +6,24 @@ title: Historia
 <h1>Historia</h1>
 
 <p>
-La historia de México es un entramado complejo donde se cruzan civilizaciones milenarias, 
-procesos sociales, encuentros culturales, conflictos, resistencias y transformaciones que 
-han dado forma al país que conocemos hoy.
+La historia de México es un entramado de civilizaciones, procesos sociales, resistencias y
+transformaciones que han moldeado la identidad del país a lo largo del tiempo.
 </p>
 
-<p>
-Aquí exploramos momentos clave del pasado: desde las culturas prehispánicas y su legado, 
-hasta la época colonial, la Independencia, la Revolución y los acontecimientos que marcaron 
-el rumbo político y cultural del siglo XX. También abordamos personajes, movimientos sociales 
-y expresiones históricas que continúan influyendo en la vida contemporánea.
-</p>
-
-<p>
-<strong>El México Bárbaro</strong> busca ofrecer una mirada accesible, rigurosa y profundamente humana 
-sobre los hechos que han moldeado nuestra identidad colectiva.
-</p>
+<section class="post-list">
+  {% if site.categories.historia %}
+    {% for post in site.categories.historia %}
+      <article class="post-item">
+        <h2>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        <p class="post-meta">
+          {{ post.date | date: "%d de %B de %Y" }}
+        </p>
+        <p>{{ post.excerpt }}</p>
+      </article>
+    {% endfor %}
+  {% else %}
+    <p>Aún no hay artículos publicados en esta sección.</p>
+  {% endif %}
+</section>
