@@ -6,20 +6,19 @@ title: Tradiciones
 <h1>Tradiciones</h1>
 
 <p>
-Las tradiciones mexicanas son la expresión viva de una identidad construida a través de siglos. 
-En ellas conviven raíces indígenas, herencias coloniales y transformaciones contemporáneas que 
-mantienen al país en constante renovación cultural.
+Las tradiciones mexicanas son la expresión viva de una identidad construida a través de siglos.
 </p>
 
-<p>
-En esta sección exploramos festividades, rituales, creencias, danzas, artes populares y 
-costumbres que dan sentido a la vida comunitaria. Aquí encontrarás historias, contextos 
-y significados detrás de celebraciones emblemáticas como el Día de Muertos, así como 
-prácticas locales que resisten el paso del tiempo y revelan la diversidad profunda del México 
-multicultural.
-</p>
-
-<p>
-<strong>El México Bárbaro</strong> busca documentar, preservar y compartir estas expresiones, 
-para que el mundo comprenda la fuerza simbólica que sostiene nuestra cultura.
-</p>
+<section class="post-list">
+  {% for post in site.categories.tradiciones %}
+    <article class="post-item">
+      <h2>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      <p class="post-meta">
+        {{ post.date | date: "%d de %B de %Y" }}
+      </p>
+      <p>{{ post.excerpt }}</p>
+    </article>
+  {% endfor %}
+</section>
