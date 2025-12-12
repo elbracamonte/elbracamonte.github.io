@@ -73,3 +73,29 @@ footer {
 .menu li a:hover {
   text-decoration: underline;
 }
+
+.post-list {
+  margin-top: 40px;
+}
+
+.post-item {
+  margin-bottom: 40px;
+}
+
+.post-item h2 {
+  margin-bottom: 5px;
+}
+
+.post-item a {
+  text-decoration: none;
+  color: #111;
+}
+
+.post-item a:hover {
+  text-decoration: underline;
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: #666;
+}
