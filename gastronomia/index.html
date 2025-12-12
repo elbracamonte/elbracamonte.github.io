@@ -6,19 +6,25 @@ title: Gastronomía
 <h1>Gastronomía</h1>
 
 <p>
-La gastronomía mexicana es un universo propio: una cocina ancestral que fusiona la 
-sabiduría indígena con influencias históricas y regionales, creando sabores únicos en el mundo. 
-Reconocida por la UNESCO como Patrimonio Cultural Inmaterial de la Humanidad, es una de las 
-expresiones más profundas de nuestra identidad.
+La gastronomía mexicana es una de las expresiones culturales más complejas y profundas del país.
+Es el resultado de saberes ancestrales, ingredientes originarios y técnicas transmitidas de
+generación en generación.
 </p>
 
-<p>
-En esta sección encontrarás ingredientes, técnicas, recetas tradicionales, platillos emblemáticos 
-y las historias que los acompañan. Desde el maíz —nuestro alimento fundacional— hasta los sabores 
-de las cocinas regionales, buscamos mostrar la riqueza culinaria que ha trascendido fronteras.
-</p>
-
-<p>
-<strong>El México Bárbaro</strong> celebra la comida como un acto cultural, comunitario y simbólico, 
-una experiencia que revela quiénes somos y cómo hemos evolucionado a través del tiempo.
-</p>
+<section class="post-list">
+  {% if site.categories.gastronomia %}
+    {% for post in site.categories.gastronomia %}
+      <article class="post-item">
+        <h2>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        <p class="post-meta">
+          {{ post.date | date: "%d de %B de %Y" }}
+        </p>
+        <p>{{ post.excerpt }}</p>
+      </article>
+    {% endfor %}
+  {% else %}
+    <p>Aún no hay artículos publicados en esta sección.</p>
+  {% endif %}
+</section>
