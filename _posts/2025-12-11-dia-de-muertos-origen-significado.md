@@ -28,6 +28,8 @@ El resultado fue una tradición única, profundamente mestiza, que expresa la co
 
 ## El significado simbólico de la ofrenda
 
+![Ofrenda tradicional del Día de Muertos](/assets/img/tradiciones/ofrenda.jpg)
+
 La ofrenda es el corazón del Día de Muertos. Cada uno de sus elementos posee un significado específico que refleja una cosmovisión en la que la muerte no es ausencia, sino presencia temporal.
 
 Entre los elementos más comunes se encuentran:
