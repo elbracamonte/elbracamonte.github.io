@@ -26,7 +26,7 @@ El altar representa el espacio simbólico donde se encuentran el mundo de los vi
 
 ### El pan de muerto
 
-El pan de muerto es uno de los alimentos más representativos de la ofrenda. Su forma y decoración aluden al ciclo de la vida y la muerte, y su presencia refuerza el carácter ritual y comunitario de la celebración.
+[El pan de muerto](/gastronomia/pan-de-muerto/) es uno de los alimentos más representativos de la ofrenda. Su forma y decoración aluden al ciclo de la vida y la muerte, y su presencia refuerza el carácter ritual y comunitario de la celebración.
 
 ### El agua
 
