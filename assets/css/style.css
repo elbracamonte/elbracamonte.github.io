@@ -259,3 +259,44 @@ footer {
   text-align: center;
   margin-top: 8px;
 }
+
+/* =========================
+   UX/UI ADICIONAL
+========================= */
+
+.home-intro {
+  max-width: 700px;
+  margin: 60px auto;
+  font-size: 1.05rem;
+  color: #333;
+}
+
+.pillar-card {
+  padding-top: 10px;
+}
+
+.pillar-label {
+  display: inline-block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #777;
+  margin-bottom: 8px;
+}
+
+.latest-list {
+  list-style: none;
+  padding: 0;
+}
+
+.latest-list li {
+  margin-bottom: 12px;
+}
+
+.category-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
