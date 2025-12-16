@@ -1,9 +1,74 @@
 ---
 layout: home
-title: "Inicio"
+title: "El México Bárbaro"
+description: "Archivo cultural sobre tradiciones, gastronomía e historia de México."
 ---
 
-<h1>🇲🇽 El México Bárbaro</h1>
+<section class="home-hero">
+  <h1>El México Bárbaro</h1>
+  <p class="home-tagline">
+    Archivo cultural sobre tradiciones, gastronomía e historia de México.
+  </p>
+</section>
 
-<p>Bienvenido al archivo vivo de la cultura mexicana.</p>
-<p>A continuación verás las publicaciones más recientes:</p>
+<section class="home-pillars">
+  <h2>Artículos fundamentales</h2>
+
+  <div class="pillars-grid">
+    <article>
+      <h3>
+        <a href="/tradiciones/dia-de-muertos-origen-significado/">
+          El Día de Muertos: origen y significado
+        </a>
+      </h3>
+      <p>
+        Una exploración histórica y cultural de la tradición que articula memoria,
+        ritual y cosmovisión en México.
+      </p>
+    </article>
+
+    <article>
+      <h3>
+        <a href="/gastronomia/el-maiz-origen-historia-gastronomia-mexicana/">
+          El maíz: base de la gastronomía mexicana
+        </a>
+      </h3>
+      <p>
+        Origen, simbolismo y permanencia del grano que sostiene la alimentación
+        y la identidad cultural del país.
+      </p>
+    </article>
+
+    <article>
+      <h3>
+        <a href="/historia/mexico-prehispanico-cosmovision-cultura-legado/">
+          México prehispánico: cosmovisión y legado histórico
+        </a>
+      </h3>
+      <p>
+        Un recorrido por las civilizaciones y concepciones del mundo que
+        sentaron las bases históricas de México.
+      </p>
+    </article>
+  </div>
+</section>
+
+<section class="home-latest">
+  <h2>Últimos artículos</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="home-categories">
+  <h2>Categorías</h2>
+  <ul>
+    <li><a href="/tradiciones/">Tradiciones</a></li>
+    <li><a href="/gastronomia/">Gastronomía</a></li>
+    <li><a href="/historia/">Historia</a></li>
+  </ul>
+</section>
