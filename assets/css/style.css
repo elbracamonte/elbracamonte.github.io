@@ -300,3 +300,37 @@ footer {
   gap: 24px;
   flex-wrap: wrap;
 }
+
+.home-hero {
+  text-align: center;
+  margin: 100px 0 60px;
+}
+
+.home-hero h1 {
+  font-size: 2.4rem;
+}
+
+.home-tagline {
+  font-size: 1.15rem;
+  max-width: 520px;
+  margin: 20px auto 0;
+  color: #444;
+}
+
+.home-intro {
+  max-width: 720px;
+  margin: 60px auto 100px;
+  font-size: 1.05rem;
+}
+
+.home-pillars {
+  margin-bottom: 120px;
+}
+
+.home-latest {
+  margin-bottom: 100px;
+}
+
+.home-categories {
+  margin-bottom: 120px;
+}
