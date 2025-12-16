@@ -28,6 +28,8 @@ Esta concepción convirtió al grano en un elemento espiritual, presente en ritu
 
 ## La nixtamalización: una herencia cultural clave
 
+![Nixtamalización del maíz con agua y cal](/assets/img/gastronomia/nixtamalizacion-del-maiz.webp)
+
 Uno de los aportes más importantes de las culturas mesoamericanas a la gastronomía mundial es la nixtamalización, un proceso que consiste en cocer el maíz con agua y cal. Esta técnica no solo mejora el sabor y la textura del grano, sino que incrementa su valor nutricional.
 
 Gracias a la nixtamalización, el maíz se convirtió en una fuente completa de energía y nutrientes, permitiendo una alimentación equilibrada. Este conocimiento ancestral sigue vigente hasta hoy y es la base de productos fundamentales como la tortilla, el tamal y el atole.
