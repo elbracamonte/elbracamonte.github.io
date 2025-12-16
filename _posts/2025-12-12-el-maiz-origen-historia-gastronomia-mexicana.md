@@ -4,6 +4,7 @@ title: "El maíz: origen, historia y significado en la gastronomía mexicana"
 description: "Análisis cultural e histórico del maíz como base de la gastronomía mexicana, su origen prehispánico, su simbolismo y su permanencia en la identidad del país."
 categories: [gastronomia]
 image: /assets/img/gastronomia/maiz-mexicano.webp
+image_alt: "Maíz criollo mexicano en mazorca"
 ---
 
 El maíz es mucho más que un alimento en México. Es origen, memoria y sustento. Desde tiempos prehispánicos, este grano ha sido el eje alrededor del cual se construyó la vida cotidiana, la cosmovisión y la gastronomía de numerosas civilizaciones mesoamericanas.
