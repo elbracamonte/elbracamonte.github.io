@@ -3,7 +3,8 @@ layout: post
 title: "México prehispánico: cosmovisión, cultura y legado histórico"
 description: "Análisis del México prehispánico, sus civilizaciones, cosmovisión y legado cultural como base histórica de la identidad mexicana."
 categories: [historia]
-image: /assets/img/historia/mexico-prehispanico.webp
+image: /assets/img/historia/cabeza-olmeca.webp
+image_alt: "Cabeza colosal olmeca tallada en piedra"
 ---
 
 Antes de la llegada de los europeos, el territorio que hoy conocemos como México fue el escenario de algunas de las civilizaciones más complejas y avanzadas del continente americano. Lejos de ser sociedades aisladas o primitivas, los pueblos del México prehispánico desarrollaron sistemas políticos, religiosos, científicos y culturales profundamente sofisticados.
