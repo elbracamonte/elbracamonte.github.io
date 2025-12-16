@@ -4,7 +4,7 @@ title: "El Día de Muertos: origen, significado y evolución de una tradición m
 description: "Análisis histórico y cultural del Día de Muertos: su origen prehispánico, el sincretismo con el catolicismo y su significado en la identidad mexicana."
 categories: [tradiciones]
 image: /assets/img/tradiciones/dia-de-muertos.webp
-image_alt: "Celebración tradicional del día de muertos en México"
+image_alt: "Celebración tradicional del Día de Muertos en México"
 ---
 
 El Día de Muertos es una de las tradiciones más representativas de México y una de las expresiones culturales que mayor interés despiertan a nivel internacional. Cada año, entre finales de octubre y principios de noviembre, las familias honran a sus difuntos mediante rituales, ofrendas y símbolos que conectan el presente con una memoria ancestral.
@@ -52,7 +52,7 @@ Entre los elementos más comunes se encuentran:
 
 Más allá de su forma, la ofrenda es un acto de recuerdo, respeto y continuidad cultural.
 
-## El Día de Muertos en la actualidad
+## El Día de Muertos en el México contemporáneo
 
 En el México contemporáneo, el Día de Muertos se vive de múltiples maneras: desde celebraciones íntimas en el hogar hasta festividades comunitarias, desfiles y eventos públicos. En 2008, la UNESCO reconoció esta tradición como Patrimonio Cultural Inmaterial de la Humanidad, subrayando su valor simbólico y social.
 
