@@ -35,9 +35,16 @@ El agua se ofrece para saciar la sed del alma tras su largo viaje desde el más 
 
 ### Las flores de cempasúchil
 
-![Ofrenda tradicional del Día de Muertos con flores de cempasúchil y veladoras](/assets/img/tradiciones/flor-de-cempasuchil.webp)
-
 Las flores de cempasúchil, con su color intenso y su aroma característico, cumplen la función de guiar a los difuntos hacia la ofrenda. Su uso proviene de antiguas tradiciones indígenas.
+
+<figure>
+  <img
+    src="/assets/img/tradiciones/flor-de-cempasuchil.webp"
+    alt="Flores de cempasúchil en una ofrenda tradicional del Día de Muertos">
+  <figcaption>
+    Las flores de cempasúchil guían simbólicamente a los difuntos hacia la ofrenda mediante su color y aroma, según la tradición del Día de Muertos.
+  </figcaption>
+</figure>
 
 ### Las fotografías
 
