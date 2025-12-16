@@ -39,7 +39,7 @@ La ofrenda es el corazón del Día de Muertos. Cada uno de sus elementos posee u
     alt="Ofrenda tradicional del Día de Muertos en México">
   <figcaption>
     Ofrenda del Día de Muertos con flores de cempasúchil y veladoras, elementos centrales del ritual de memoria.
-  </figcaption></br>
+  </figcaption>
 </figure>
 
 Entre los elementos más comunes se encuentran:
