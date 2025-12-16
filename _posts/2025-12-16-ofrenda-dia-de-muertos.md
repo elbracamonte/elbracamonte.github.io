@@ -4,6 +4,7 @@ title: "La ofrenda del Día de Muertos: elementos y significado"
 description: "Explicación detallada del significado de la ofrenda del Día de Muertos y de cada uno de sus elementos simbólicos dentro de la tradición mexicana."
 categories: [tradiciones]
 image: /assets/img/tradiciones/ofrenda-dia-de-muertos.webp
+image_alt: "Ofrenda tradicional del Día de Muertos con cempasúchil"
 ---
 
 La ofrenda del Día de Muertos es uno de los elementos más representativos y simbólicos de esta tradición mexicana. A través de ella, las familias establecen un vínculo entre el mundo de los vivos y el de los muertos, honrando la memoria de quienes ya no están.
