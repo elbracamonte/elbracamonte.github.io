@@ -21,11 +21,18 @@ Estas civilizaciones no existieron de forma aislada. Mantuvieron redes de interc
 
 ## La cosmovisión del México prehispánico
 
-![Escultura prehispánica asociada a Quetzalcóatl en zona arqueológica](/assets/img/historia/escultura-quetzalcoatl.webp)
-
 Uno de los elementos más profundos del México prehispánico fue su cosmovisión: una manera particular de entender el universo, la vida y el tiempo. Para estos pueblos, el mundo estaba regido por fuerzas naturales y divinas que se manifestaban en los ciclos agrícolas, los fenómenos naturales y el destino humano.
 
 La vida, la muerte y la renovación formaban parte de un mismo proceso. Esta visión cíclica se reflejaba en rituales, festividades y prácticas religiosas que buscaban mantener el equilibrio entre los seres humanos, la naturaleza y los dioses.
+
+<figure>
+  <img
+    src="/assets/img/historia/escultura-quetzalcoatl.webp"
+    alt="Escultura prehispánica asociada a Quetzalcóatl en zona arqueológica mesoamericana">
+  <figcaption>
+    Escultura prehispánica vinculada a la figura de Quetzalcóatl, una de las deidades centrales en la cosmovisión mesoamericana.
+  </figcaption>
+</figure>
 
 Muchos de estos conceptos siguen presentes en tradiciones actuales, como el [Día de Muertos](/tradiciones/dia-de-muertos-origen-significado/), cuya raíz puede rastrearse hasta las concepciones prehispánicas sobre la muerte y la memoria colectiva.
 
