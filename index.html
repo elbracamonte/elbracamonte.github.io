@@ -7,7 +7,17 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
 <section class="home-hero">
   <h1>El México Bárbaro</h1>
   <p class="home-tagline">
-    Archivo cultural sobre tradiciones, gastronomía e historia de México.
+    Archivo cultural dedicado a documentar las tradiciones, la gastronomía
+    y la historia que conforman la identidad de México.
+  </p>
+</section>
+
+<section class="home-intro">
+  <p>
+    <strong>El México Bárbaro</strong> es un proyecto editorial independiente
+    enfocado en la divulgación cultural. A través de artículos de análisis
+    histórico y reflexión cultural, este archivo busca preservar y difundir
+    las expresiones que han dado forma a México a lo largo del tiempo.
   </p>
 </section>
 
@@ -15,38 +25,41 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
   <h2>Artículos fundamentales</h2>
 
   <div class="pillars-grid">
-    <article>
+    <article class="pillar-card">
+      <span class="pillar-label">Tradiciones</span>
       <h3>
         <a href="/tradiciones/dia-de-muertos-origen-significado/">
-          El Día de Muertos: origen y significado
+          El Día de Muertos: origen, significado y evolución
         </a>
       </h3>
       <p>
-        Una exploración histórica y cultural de la tradición que articula memoria,
-        ritual y cosmovisión en México.
+        Un análisis histórico y cultural de una de las tradiciones más
+        representativas de México y de su relación con la memoria colectiva.
       </p>
     </article>
 
-    <article>
+    <article class="pillar-card">
+      <span class="pillar-label">Gastronomía</span>
       <h3>
         <a href="/gastronomia/el-maiz-origen-historia-gastronomia-mexicana/">
-          El maíz: base de la gastronomía mexicana
+          El maíz: origen, historia y significado cultural
         </a>
       </h3>
       <p>
-        Origen, simbolismo y permanencia del grano que sostiene la alimentación
-        y la identidad cultural del país.
+        El grano que sustenta la gastronomía mexicana y articula una visión
+        cultural que conecta alimentación, territorio e identidad.
       </p>
     </article>
 
-    <article>
+    <article class="pillar-card">
+      <span class="pillar-label">Historia</span>
       <h3>
         <a href="/historia/mexico-prehispanico-cosmovision-cultura-legado/">
           México prehispánico: cosmovisión y legado histórico
         </a>
       </h3>
       <p>
-        Un recorrido por las civilizaciones y concepciones del mundo que
+        Un recorrido por las civilizaciones mesoamericanas y las ideas que
         sentaron las bases históricas de México.
       </p>
     </article>
@@ -54,8 +67,8 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
 </section>
 
 <section class="home-latest">
-  <h2>Últimos artículos</h2>
-  <ul>
+  <h2>Últimas publicaciones</h2>
+  <ul class="latest-list">
     {% for post in site.posts limit:5 %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
@@ -65,8 +78,8 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
 </section>
 
 <section class="home-categories">
-  <h2>Categorías</h2>
-  <ul>
+  <h2>Explorar por categoría</h2>
+  <ul class="category-list">
     <li><a href="/tradiciones/">Tradiciones</a></li>
     <li><a href="/gastronomia/">Gastronomía</a></li>
     <li><a href="/historia/">Historia</a></li>
