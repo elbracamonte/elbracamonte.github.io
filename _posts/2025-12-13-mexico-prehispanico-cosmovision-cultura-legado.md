@@ -13,7 +13,7 @@ Comprender el México prehispánico no significa mirar únicamente al pasado, si
 
 ## El surgimiento de las civilizaciones mesoamericanas
 
-El México prehispánico formó parte de una región cultural conocida como Mesoamérica, un espacio donde diversas civilizaciones compartieron rasgos comunes como la agricultura del maíz, el calendario ritual, la escritura jeroglífica y complejas estructuras sociales.
+El México prehispánico formó parte de una región cultural conocida como Mesoamérica, un espacio donde se desarrollaron algunas de las principales civilizaciones del México prehispánico y que compartieron rasgos comunes como la agricultura del maíz, el calendario ritual, la escritura jeroglífica y complejas estructuras sociales.
 
 Entre las civilizaciones más representativas se encuentran los olmecas, considerados la cultura madre; los mayas, con su desarrollo científico y astronómico; los zapotecas, constructores de Monte Albán; los teotihuacanos, creadores de una de las ciudades más grandes del mundo antiguo; y los mexicas, cuyo poder político marcó el final del periodo prehispánico.
 
