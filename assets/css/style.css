@@ -1,3 +1,7 @@
+/* =========================
+   BASE
+========================= */
+
 body {
   margin: 0;
   padding: 0;
@@ -7,9 +11,25 @@ body {
   line-height: 1.6;
 }
 
+main.content {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* =========================
+   HEADER / NAVIGATION
+========================= */
+
 header {
   background: #111;
   padding: 15px 20px;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .top-nav .brand {
@@ -17,42 +37,6 @@ header {
   text-decoration: none;
   font-size: 1.4rem;
   font-weight: bold;
-}
-
-main.content {
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 0 20px;
-}
-
-footer {
-  margin-top: 60px;
-  padding: 30px;
-  text-align: center;
-  background: #111;
-  color: #fff;
-  font-size: 0.9rem;
-}
-
-.post h1 {
-  font-size: 2.4rem;
-  margin-bottom: 10px;
-}
-
-.post-date {
-  color: #666;
-  font-size: 0.9rem;
-}
-
-.post-content {
-  margin-top: 30px;
-}
-
-/* NAVIGATION */
-.top-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 .menu {
@@ -73,6 +57,51 @@ footer {
 .menu li a:hover {
   text-decoration: underline;
 }
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+  margin-top: 60px;
+  padding: 30px;
+  text-align: center;
+  background: #111;
+  color: #fff;
+  font-size: 0.9rem;
+}
+
+/* =========================
+   POSTS
+========================= */
+
+.post h1 {
+  font-size: 2.4rem;
+  margin-bottom: 10px;
+}
+
+.post-date {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.post-content {
+  margin-top: 30px;
+}
+
+.post-featured-image {
+  margin: 30px 0 40px;
+}
+
+.post-featured-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* =========================
+   POST LISTS
+========================= */
 
 .post-list {
   margin-top: 40px;
@@ -100,12 +129,133 @@ footer {
   color: #666;
 }
 
-.post-featured-image {
-  margin: 30px 0 40px;
+/* =========================
+   HOME — PORTADA EDITORIAL
+========================= */
+
+.home-hero {
+  text-align: center;
+  margin: 80px 0;
 }
 
-.post-featured-image img {
-  width: 100%;
+.home-hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.home-tagline {
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin: 20px auto;
+  color: #444;
+}
+
+.home-pillars {
+  margin: 80px 0;
+}
+
+.home-pillars h2 {
+  font-size: 1.8rem;
+  margin-bottom: 40px;
+}
+
+.pillars-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 40px;
+}
+
+.home-pillars article h3 {
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
+
+.home-pillars article p {
+  color: #444;
+  font-size: 0.95rem;
+}
+
+/* =========================
+   HOME — ÚLTIMOS ARTÍCULOS
+========================= */
+
+.home-latest {
+  margin: 80px 0;
+}
+
+.home-latest h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.home-latest ul {
+  list-style: none;
+  padding: 0;
+}
+
+.home-latest li {
+  margin-bottom: 10px;
+}
+
+.home-latest a {
+  text-decoration: none;
+  color: #111;
+}
+
+.home-latest a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   HOME — CATEGORÍAS
+========================= */
+
+.home-categories {
+  margin: 80px 0;
+}
+
+.home-categories h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.home-categories ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.home-categories a {
+  text-decoration: none;
+  color: #111;
+  font-weight: 500;
+}
+
+.home-categories a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   IMÁGENES DENTRO DE ARTÍCULOS
+========================= */
+
+.post-content img {
+  display: block;
+  max-width: 100%;
   height: auto;
+  margin: 40px auto;
   border-radius: 4px;
+}
+
+.post-content figure {
+  margin: 40px 0;
+}
+
+.post-content figcaption {
+  font-size: 0.85rem;
+  color: #666;
+  text-align: center;
+  margin-top: 8px;
 }
