@@ -31,9 +31,16 @@ El resultado fue una tradición única, profundamente mestiza, que expresa la co
 
 ## El significado simbólico de la ofrenda
 
-![Ofrenda tradicional del Día de Muertos con flores de cempasúchil y veladoras](/assets/img/tradiciones/ofrenda.webp)
-
 La ofrenda es el corazón del Día de Muertos. Cada uno de sus elementos posee un significado específico que refleja una cosmovisión en la que la muerte no es ausencia, sino presencia temporal.
+
+<figure>
+  <img 
+    src="/assets/img/tradiciones/ofrenda.webp"
+    alt="Ofrenda tradicional del Día de Muertos en México">
+  <figcaption>
+    Ofrenda del Día de Muertos con flores de cempasúchil y veladoras, elementos centrales del ritual de memoria.
+  </figcaption>
+</figure>
 
 Entre los elementos más comunes se encuentran:
 
