@@ -63,3 +63,5 @@ Este artículo forma parte de la sección de [Historia de México](/historia/), 
 El México prehispánico no es solo un capítulo histórico, sino una raíz profunda que continúa nutriendo la cultura mexicana. Reconocer su legado es un acto de memoria y comprensión que permite valorar la riqueza histórica que define a México.
 
 En **El México Bárbaro**, el estudio de esta etapa busca ofrecer una mirada respetuosa y reflexiva sobre las civilizaciones que construyeron los cimientos culturales del país.
+
+Este conocimiento permite comprender que la historia de México es, ante todo, una historia de continuidad cultural.
