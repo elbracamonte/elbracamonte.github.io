@@ -345,6 +345,12 @@ footer {
   margin: 80px auto 120px;
 }
 
+.page-header {
+  background: none;
+  padding: 0;
+  margin-bottom: 40px;
+}
+
 .page-header h1 {
   font-size: 2.2rem;
   margin-bottom: 40px;
