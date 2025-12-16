@@ -17,7 +17,7 @@ Las ofrendas dedicadas a los muertos tienen raíces prehispánicas. Diversos pue
 
 Con el paso del tiempo y el proceso de sincretismo con el catolicismo, estas prácticas se transformaron y se integraron al calendario religioso cristiano, dando lugar a la ofrenda contemporánea que conocemos hoy.
 
-## Elementos principales de la ofrenda del Día de Muertos
+## Elementos principales de la ofrenda del Día de Muertos y su significado
 
 La ofrenda se compone de diversos elementos que representan valores espirituales, naturales y humanos. Aunque su composición puede variar según la región, existen componentes comunes que se repiten en gran parte del país.
 
@@ -67,3 +67,5 @@ Este artículo forma parte de la sección de [Tradiciones mexicanas](/tradicione
 La ofrenda del Día de Muertos es una manifestación cultural que sintetiza siglos de historia, espiritualidad y memoria. Comprender sus elementos permite apreciar no solo una tradición, sino una forma particular de entender la vida, la muerte y la continuidad entre generaciones.
 
 En **El México Bárbaro**, el estudio de estas expresiones busca preservar y difundir el significado profundo de las tradiciones que sostienen la identidad cultural mexicana.
+
+La ofrenda es, en esencia, una forma de memoria ritual que conecta a las generaciones a través del tiempo.
