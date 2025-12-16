@@ -27,7 +27,7 @@ Uno de los elementos más profundos del México prehispánico fue su cosmovisió
 
 La vida, la muerte y la renovación formaban parte de un mismo proceso. Esta visión cíclica se reflejaba en rituales, festividades y prácticas religiosas que buscaban mantener el equilibrio entre los seres humanos, la naturaleza y los dioses.
 
-Muchos de estos conceptos siguen presentes en tradiciones actuales, como el Día de Muertos, cuya raíz puede rastrearse hasta las concepciones prehispánicas sobre la muerte y la memoria colectiva.
+Muchos de estos conceptos siguen presentes en tradiciones actuales, como el [Día de Muertos](/tradiciones/dia-de-muertos-origen-significado/), cuya raíz puede rastrearse hasta las concepciones prehispánicas sobre la muerte y la memoria colectiva.
 
 > En el México prehispánico, la historia no se concebía como una línea recta, sino como un ciclo constante de creación y transformación.
 
