@@ -44,7 +44,7 @@ Gracias a la nixtamalización, el maíz se convirtió en una fuente completa de 
 
 La nixtamalización es un ejemplo de cómo el saber indígena integró ciencia, alimentación y cultura en una sola práctica.
 
-## El maíz como base de la gastronomía mexicana
+## El maíz como base de la gastronomía mexicana tradicional
 
 La gastronomía mexicana se construye alrededor del maíz. Tortillas, tamales, tlacoyos, sopes, gorditas y una infinidad de platillos tienen al maíz como ingrediente principal o base estructural.
 
@@ -69,3 +69,5 @@ Este artículo forma parte de la sección de [Gastronomía mexicana](/gastronomi
 El maíz no es únicamente un ingrediente fundamental de la cocina mexicana. Es historia, identidad y memoria colectiva. Comprender su significado permite reconocer la profundidad cultural de la gastronomía y el papel que este grano ha tenido en la construcción de México.
 
 En **El México Bárbaro**, el estudio del maíz es una invitación a valorar los elementos esenciales que sostienen la cultura mexicana desde sus raíces hasta la actualidad.
+
+Hablar del maíz es hablar del origen profundo de la cultura mexicana.
