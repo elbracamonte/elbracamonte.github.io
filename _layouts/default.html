@@ -2,11 +2,29 @@
 <html lang="es-MX">
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ page.title }} | El México Bárbaro</title>
+  <title>
+    {% if page.title %}
+      {{ page.title }} | {{ site.site_name }}
+    {% else %}
+      {{ site.site_name }}
+    {% endif %}
+  </title>
 
   {%- seo -%}
+
+  <meta name="description" content="{{ page.description | default: site.site_description }}">
+  <meta name="language" content="{{ site.site_language }}">
+  <meta property="og:site_name" content="{{ site.site_name }}">
+  <meta property="og:title" content="{{ page.title | default: site.site_name }}">
+  <meta property="og:description" content="{{ page.description | default: site.site_description }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ site.site_url }}{{ page.url }}">
+  {% if page.image %}
+  <meta property="og:image" content="{{ site.site_url }}{{ page.image }}">
+  {% endif %}
 
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
