@@ -21,39 +21,3 @@ layout: default
     {{ content }}
   </div>
 </article>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "inLanguage": "es-MX",
-  "headline": "{{ page.title }}",
-  "description": "{{ page.description }}",
-  "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-  {% if page.image %}
-  "image": {
-    "@type": "ImageObject",
-    "url": "{{ page.image | absolute_url }}"
-  },
-  {% endif %}
-  "author": {
-    "@type": "Organization",
-    "name": "El México Bárbaro",
-    "url": "{{ site.site_url }}"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "El México Bárbaro",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ site.site_url }}/assets/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ page.url | absolute_url }}"
-  }
-}
-</script>
-
