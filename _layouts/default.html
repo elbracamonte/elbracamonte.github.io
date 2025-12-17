@@ -13,20 +13,19 @@
     {% endif %}
   </title>
 
-  {%- seo -%}
-
   <meta name="description" content="{{ page.description | default: site.site_description }}">
   <meta name="language" content="{{ site.site_language }}">
   <meta property="og:site_name" content="{{ site.site_name }}">
   <meta property="og:title" content="{{ page.title | default: site.site_name }}">
   <meta property="og:description" content="{{ page.description | default: site.site_description }}">
-  <meta property="og:type" content="article">
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ site.site_url }}{{ page.url }}">
   {% if page.image %}
   <meta property="og:image" content="{{ site.site_url }}{{ page.image }}">
   {% endif %}
 
   <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="canonical" href="{{ site.site_url }}{{ page.url }}">
 </head>
 
 <body>
