@@ -23,3 +23,8 @@ kramdown:
 
 # Configuración de posts
 permalink: /:categories/:title/
+
+site_name: "El México Bárbaro"
+site_description: "Archivo cultural independiente sobre tradiciones, gastronomía e historia de México."
+site_url: "https://elmexicobarbaro.com"
+site_language: "es-MX"
