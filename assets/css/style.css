@@ -426,3 +426,46 @@ footer {
 .category-list li {
   margin-bottom: 14px;
 }
+
+/* =========================
+   CSS MOBILE HEADER
+========================= */
+
+@media (max-width: 768px) {
+
+  header {
+    padding: 14px 16px;
+  }
+
+  .top-nav {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .brand {
+    gap: 10px;
+  }
+
+  .site-logo {
+    height: 34px;
+  }
+
+  .brand-text {
+    font-size: 1.2rem;
+  }
+
+  .menu {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    padding-top: 6px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    overflow-x: auto;
+  }
+
+  .menu li a {
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+}
