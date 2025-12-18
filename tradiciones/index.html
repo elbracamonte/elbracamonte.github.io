@@ -1,30 +1,56 @@
 ---
-layout: default
-title: Tradiciones
+layout: page
+title: "Tradiciones mexicanas"
+description: "Archivo cultural sobre las tradiciones mexicanas, sus rituales, celebraciones y significados dentro de la identidad cultural de México."
 ---
 
-<h1>Tradiciones</h1>
+<section class="category-hero">
+  <h1>Tradiciones mexicanas</h1>
+  <p class="category-intro">
+    Las tradiciones mexicanas expresan la relación entre memoria, comunidad y
+    tiempo. A través de rituales, celebraciones y prácticas culturales, estas
+    manifestaciones reflejan una forma particular de entender la vida, la
+    muerte y la continuidad cultural.
+  </p>
+</section>
 
-<p>
-Las tradiciones mexicanas son la expresión viva de una identidad construida a lo largo de siglos.
-En ellas conviven raíces indígenas, herencias coloniales y transformaciones contemporáneas que
-dan forma a la vida comunitaria y simbólica del país.
-</p>
+<section class="category-featured">
+  <h2>Artículos fundamentales</h2>
 
-<section class="post-list">
-  {% if site.categories.tradiciones %}
+  <article class="featured-article">
+    <h3>
+      <a href="/tradiciones/dia-de-muertos-origen-significado/">
+        El Día de Muertos: origen, significado y evolución
+      </a>
+    </h3>
+    <p>
+      Un análisis histórico y cultural de una de las tradiciones más
+      representativas de México y de su profunda relación con la memoria
+      colectiva.
+    </p>
+  </article>
+
+  <article class="featured-article">
+    <h3>
+      <a href="/tradiciones/ofrenda-dia-de-muertos/">
+        La ofrenda del Día de Muertos: elementos y significado
+      </a>
+    </h3>
+    <p>
+      Exploración detallada de los elementos simbólicos que conforman la
+      ofrenda y su papel dentro del ritual del Día de Muertos.
+    </p>
+  </article>
+</section>
+
+<section class="category-list">
+  <h2>Todos los artículos sobre tradiciones</h2>
+
+  <ul>
     {% for post in site.categories.tradiciones %}
-      <article class="post-item">
-        <h2>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h2>
-        <p class="post-meta">
-          {{ post.date | date: "%d de %B de %Y" }}
-        </p>
-        <p>{{ post.excerpt }}</p>
-      </article>
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
     {% endfor %}
-  {% else %}
-    <p>Aún no hay artículos publicados en esta sección.</p>
-  {% endif %}
+  </ul>
 </section>
