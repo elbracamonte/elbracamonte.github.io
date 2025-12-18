@@ -1,6 +1,6 @@
 title: "El México Bárbaro"
 description: "Archivo vivo de la cultura mexicana: tradiciones, gastronomía e historia."
-url: "https://elmexicobarbaro.com"
+url: "https://www.elmexicobarbaro.com"
 baseurl: "" # porque es un User Site, no subcarpeta
 lang: "es-MX"
 
@@ -26,5 +26,5 @@ permalink: /:categories/:title/
 
 site_name: "El México Bárbaro"
 site_description: "Archivo cultural independiente sobre tradiciones, gastronomía e historia de México."
-site_url: "https://elmexicobarbaro.com"
+site_url: "https://www.elmexicobarbaro.com"
 site_language: "es-MX"
