@@ -1,29 +1,43 @@
 ---
-layout: default
-title: Historia
+layout: page
+title: "Historia de México"
+description: "Archivo cultural sobre la historia de México, sus procesos, civilizaciones y transformaciones que han dado forma a la identidad del país."
 ---
 
-<h1>Historia</h1>
+<section class="category-hero">
+  <p class="category-intro">
+    La historia de México es el resultado de procesos largos y complejos en los que
+    civilizaciones originarias, conquistas, resistencias y transformaciones culturales
+    han moldeado la identidad del país. Más que una sucesión de fechas, la historia
+    permite comprender el origen de las ideas, prácticas y tensiones que siguen
+    presentes en la sociedad mexicana.
+  </p>
+</section>
 
-<p>
-La historia de México es un entramado de civilizaciones, procesos sociales, resistencias y
-transformaciones que han moldeado la identidad del país a lo largo del tiempo.
-</p>
+<section class="category-featured">
+  <h2>Artículos fundamentales</h2>
 
-<section class="post-list">
-  {% if site.categories.historia %}
+  <article class="featured-article">
+    <h3>
+      <a href="/historia/mexico-prehispanico-cosmovision-cultura-legado/">
+        México prehispánico: cosmovisión, cultura y legado histórico
+      </a>
+    </h3>
+    <p>
+      Un recorrido por las civilizaciones mesoamericanas y las concepciones del mundo
+      que sentaron las bases históricas y culturales de México antes de la conquista.
+    </p>
+  </article>
+</section>
+
+<section class="category-list">
+  <h2>Todos los artículos de historia</h2>
+
+  <ul>
     {% for post in site.categories.historia %}
-      <article class="post-item">
-        <h2>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h2>
-        <p class="post-meta">
-          {{ post.date | date: "%d de %B de %Y" }}
-        </p>
-        <p>{{ post.excerpt }}</p>
-      </article>
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
     {% endfor %}
-  {% else %}
-    <p>Aún no hay artículos publicados en esta sección.</p>
-  {% endif %}
+  </ul>
 </section>
