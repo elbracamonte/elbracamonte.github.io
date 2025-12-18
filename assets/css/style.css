@@ -359,3 +359,40 @@ footer {
 .page-body p {
   margin-bottom: 1.4em;
 }
+
+/* =========================
+   CSS TRADICIONES
+========================= */
+
+.category-hero {
+  max-width: 760px;
+  margin: 80px auto 60px;
+}
+
+.category-intro {
+  font-size: 1.05rem;
+  color: #333;
+}
+
+.category-featured {
+  max-width: 760px;
+  margin: 80px auto;
+}
+
+.featured-article {
+  margin-bottom: 50px;
+}
+
+.category-list {
+  max-width: 760px;
+  margin: 100px auto;
+}
+
+.category-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.category-list li {
+  margin-bottom: 14px;
+}
