@@ -11,7 +11,7 @@ El cempasúchil es una de las flores más representativas del Día de Muertos y 
 
 Más allá de su presencia decorativa, el cempasúchil representa una forma de comunicación simbólica entre el mundo de los vivos y el de los muertos. Comprender su significado permite acercarse a la manera en que las culturas mesoamericanas entendieron la muerte, el tránsito del alma y la memoria colectiva.
 
-Esta flor se integra a una tradición más amplia que articula ritual, simbolismo y cosmovisión, elementos esenciales para comprender **el significado cultural del Día de Muertos en México**.
+Esta flor se integra a una tradición más amplia que articula ritual, simbolismo y cosmovisión, elementos esenciales para comprender [el significado cultural del Día de Muertos en México](/tradiciones/dia-de-muertos-origen-significado/).
 
 ## Origen prehispánico del cempasúchil
 
