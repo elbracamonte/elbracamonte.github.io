@@ -9,7 +9,7 @@ image_alt: "Pan de muerto tradicional mexicano con decoración simbólica"
 
 El pan de muerto es uno de los elementos más representativos del Día de Muertos y una de las expresiones gastronómicas más simbólicas de esta tradición mexicana. Su presencia va más allá del consumo alimentario: es un objeto ritual cargado de significado, memoria y comunidad.
 
-Comprender el pan de muerto implica reconocerlo como parte de una práctica cultural más amplia, donde la comida adquiere un valor simbólico que conecta la vida cotidiana con el recuerdo de los difuntos. Este alimento forma parte esencial de una tradición que articula ritual, gastronomía y cosmovisión, elementos clave para entender **el significado cultural del Día de Muertos en México**.
+Comprender el pan de muerto implica reconocerlo como parte de una práctica cultural más amplia, donde la comida adquiere un valor simbólico que conecta la vida cotidiana con el recuerdo de los difuntos. Este alimento forma parte esencial de una tradición que articula ritual, gastronomía y cosmovisión, elementos clave para entender [el significado cultural del Día de Muertos en México](/tradiciones/dia-de-muertos-origen-significado/).
 
 ## Origen histórico del pan de muerto
 
@@ -31,13 +31,13 @@ Este simbolismo convierte al pan de muerto en un objeto ritual, no solo en un al
 
 El pan de muerto adquiere su significado pleno cuando se coloca dentro de la ofrenda. Allí representa el acto de compartir, la hospitalidad y el vínculo entre vivos y muertos.
 
-Su presencia dentro del altar se integra a un conjunto de elementos que cumplen funciones simbólicas específicas. Este contexto puede comprenderse mejor a través del análisis dedicado a **la ofrenda del Día de Muertos y sus elementos simbólicos**, donde el pan ocupa un lugar central como alimento ritual.
+Su presencia dentro del altar se integra a un conjunto de elementos que cumplen funciones simbólicas específicas. Este contexto puede comprenderse mejor a través del análisis dedicado a [la ofrenda del Día de Muertos y sus elementos simbólicos](/tradiciones/ofrenda-dia-de-muertos/), donde el pan ocupa un lugar central como alimento ritual.
 
 ## Relación con el maíz y la gastronomía ritual
 
 Aunque el pan de muerto se elabora tradicionalmente con trigo, su función simbólica dentro del Día de Muertos se inscribe en una tradición gastronómica más amplia donde los alimentos rituales cumplen un papel esencial.
 
-Esta práctica se relaciona con la importancia histórica de los alimentos como medio de comunicación simbólica con los difuntos, una idea profundamente arraigada en la cultura mesoamericana. En este sentido, el pan de muerto dialoga con otras expresiones de la gastronomía ritual que pueden explorarse en el análisis sobre **el maíz como base de la gastronomía mexicana**.
+Esta práctica se relaciona con la importancia histórica de los alimentos como medio de comunicación simbólica con los difuntos, una idea profundamente arraigada en la cultura mesoamericana. En este sentido, el pan de muerto dialoga con otras expresiones de la gastronomía ritual que pueden explorarse en el análisis sobre [el maíz como base de la gastronomía mexicana](/gastronomia/el-maiz-origen-historia-gastronomia-mexicana/).
 
 ## Variaciones regionales del pan de muerto
 
