@@ -33,7 +33,7 @@ Esta combinación de color y aroma convierte al cempasúchil en un elemento sens
 
 Dentro de la ofrenda del Día de Muertos, el cempasúchil cumple la función de guía espiritual. Sus pétalos suelen colocarse formando caminos que conducen desde la entrada del hogar hasta el altar, simbolizando el trayecto que deben seguir los difuntos.
 
-El uso del cempasúchil dentro de la ofrenda responde a una concepción ritual más amplia, donde cada elemento cumple una función específica. Este simbolismo puede comprenderse mejor en el análisis dedicado a **la ofrenda del Día de Muertos y sus elementos simbólicos**.
+El uso del cempasúchil dentro de la ofrenda responde a una concepción ritual más amplia, donde cada elemento cumple una función específica. Este simbolismo puede comprenderse mejor en el análisis dedicado a [la ofrenda del Día de Muertos y sus elementos simbólicos](/tradiciones/ofrenda-dia-de-muertos/).
 
 Más allá de su función ritual, la presencia del cempasúchil refuerza el carácter colectivo y comunitario de la celebración, donde el recuerdo se expresa a través de símbolos compartidos.
 
@@ -41,7 +41,7 @@ Más allá de su función ritual, la presencia del cempasúchil refuerza el car�
 
 El simbolismo del cempasúchil está estrechamente ligado a la manera en que las culturas mesoamericanas entendieron la muerte. Para estos pueblos, la muerte no representaba una ruptura definitiva, sino una transformación dentro de un ciclo continuo.
 
-La función de guía atribuida al cempasúchil refleja esta visión del tránsito del alma y se relaciona directamente con la manera en que se concebía el más allá. Este enfoque puede explorarse con mayor profundidad en el análisis sobre **la cosmovisión mesoamericana de la muerte**.
+La función de guía atribuida al cempasúchil refleja esta visión del tránsito del alma y se relaciona directamente con la manera en que se concebía el más allá. Este enfoque puede explorarse con mayor profundidad en el análisis sobre [la cosmovisión mesoamericana de la muerte](/tradiciones/dia-de-muertos-origen-significado/).
 
 ## El cempasúchil en la actualidad
 
