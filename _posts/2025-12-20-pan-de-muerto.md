@@ -31,6 +31,15 @@ Este simbolismo convierte al pan de muerto en un objeto ritual, no solo en un al
 
 El pan de muerto adquiere su significado pleno cuando se coloca dentro de la ofrenda. Allí representa el acto de compartir, la hospitalidad y el vínculo entre vivos y muertos.
 
+<figure>
+  <img
+    src="/assets/img/tradiciones/ofrenda-pan-de-muerto.webp"
+    alt="Pan de muerto en una ofrenda tradicional del Día de Muertos">
+  <figcaption>
+    Las flores de cempasúchil guían simbólicamente a los difuntos hacia la ofrenda mediante su color y aroma, según la tradición del Día de Muertos.
+  </figcaption>
+</figure>
+
 Su presencia dentro del altar se integra a un conjunto de elementos que cumplen funciones simbólicas específicas. Este contexto puede comprenderse mejor a través del análisis dedicado a [la ofrenda del Día de Muertos y sus elementos simbólicos](/tradiciones/ofrenda-dia-de-muertos/), donde el pan ocupa un lugar central como alimento ritual.
 
 ## Relación con el maíz y la gastronomía ritual
