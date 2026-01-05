@@ -11,13 +11,15 @@ La ofrenda del Día de Muertos es uno de los elementos más representativos y si
 
 Más que un altar decorativo, la ofrenda es una expresión cultural cargada de significado, donde cada objeto cumple una función específica. Comprender sus elementos permite acercarse a la cosmovisión que da sentido al Día de Muertos y a su profunda relación con la memoria colectiva.
 
+Esta práctica ritual forma parte de una tradición más amplia que articula historia, cosmovisión y memoria, aspectos fundamentales para comprender el [significado cultural del Día de Muertos en México](/tradiciones/dia-de-muertos-origen-significado/).
+
 ## Origen de la ofrenda en la tradición del Día de Muertos
 
 Las ofrendas dedicadas a los muertos tienen raíces prehispánicas. Diversos pueblos mesoamericanos realizaban ceremonias y rituales para acompañar a los difuntos en su tránsito al más allá, ofreciendo alimentos, objetos personales y elementos simbólicos.
 
 Con el paso del tiempo y el proceso de sincretismo con el catolicismo, estas prácticas se transformaron y se integraron al calendario religioso cristiano, dando lugar a la ofrenda contemporánea que conocemos hoy.
 
-## Elementos principales de la ofrenda del Día de Muertos y su significado
+## Los elementos de la ofrenda y su simbolismo
 
 La ofrenda se compone de diversos elementos que representan valores espirituales, naturales y humanos. Aunque su composición puede variar según la región, existen componentes comunes que se repiten en gran parte del país.
 
@@ -46,6 +48,8 @@ Las flores de cempasúchil, con su color intenso y su aroma característico, cum
   </figcaption>
 </figure>
 
+El simbolismo del cempasúchil no se limita a su función decorativa, sino que forma parte de una concepción ritual más amplia relacionada con la guía espiritual y el tránsito del alma, desarrollada en el estudio sobre [el significado ancestral del cempasúchil dentro del Día de Muertos.](/tradiciones/cempasuchil-simbolismo/)
+
 ### Las fotografías
 
 Las imágenes de los difuntos evocan la memoria individual y familiar. Colocarlas en la ofrenda es una forma de hacer presente a quien se recuerda.
@@ -55,6 +59,8 @@ Las imágenes de los difuntos evocan la memoria individual y familiar. Colocarla
 ## El significado cultural de la ofrenda
 
 La ofrenda del Día de Muertos no es un simple conjunto de objetos, sino un acto simbólico que expresa la relación de la sociedad mexicana con la muerte, la memoria y el tiempo.
+
+Esta visión de la muerte como continuidad y no como ausencia definitiva tiene raíces profundas en el pensamiento indígena, particularmente en la manera en que los pueblos mesoamericanos concebían el tránsito entre la vida y la muerte, como se explica en el análisis sobre [la cosmovisión mesoamericana de la muerte](/tradiciones/cosmovision-de-la-muerte/)
 
 A través de ella, se transmite una visión del mundo en la que la muerte no implica ausencia definitiva, sino una presencia recordada y honrada dentro de la vida comunitaria.
 
