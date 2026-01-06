@@ -3,7 +3,7 @@ layout: post
 title: "El pan de muerto: origen, simbolismo y significado"
 description: "Análisis cultural del pan de muerto, su origen histórico, su simbolismo ritual y su papel dentro del Día de Muertos y la gastronomía mexicana."
 categories: [tradiciones]
-image: /assets/img/gastronomia/pan-de-muerto.webp
+image: /assets/img/tradiciones/pan-de-muerto.webp
 image_alt: "Pan de muerto tradicional mexicano con decoración simbólica"
 ---
 
