@@ -43,6 +43,15 @@ Estos símbolos no eran decorativos, sino portadores de una visión del mundo pr
 
 La cosmovisión mesoamericana de la muerte no desapareció con la conquista. A pesar de los procesos de transformación cultural, muchas de sus ideas sobrevivieron y se integraron a nuevas formas rituales mediante el sincretismo.
 
+<figure>
+  <img
+    src="/assets/img/tradiciones/dia-de-muertos.webp"
+    alt="Celebración del Día de Muertos en un panteón mexicano con ofrendas, veladoras y flores de cempasúchil durante la noche">
+  <figcaption>
+    La celebración del Día de Muertos en panteones mexicanos refleja la continuidad de la cosmovisión indígena de la muerte, donde la memoria, el ritual y el vínculo con los difuntos siguen presentes en la vida comunitaria.
+  </figcaption>
+</figure>
+
 El Día de Muertos es una de las expresiones más claras de esta continuidad. Su estructura simbólica, su relación con la memoria y su enfoque en el retorno temporal de los difuntos reflejan una concepción indígena profundamente arraigada.
 
 ## La muerte como elemento de identidad cultural
