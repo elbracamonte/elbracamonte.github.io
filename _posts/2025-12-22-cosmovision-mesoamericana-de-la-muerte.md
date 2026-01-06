@@ -29,13 +29,13 @@ Esta concepción del más allá influyó directamente en los rituales funerarios
 
 La muerte, dentro de la cosmovisión mesoamericana, estaba estrechamente vinculada a la memoria colectiva. Los rituales no solo honraban a los difuntos, sino que reforzaban el vínculo entre generaciones y aseguraban la continuidad cultural.
 
-Esta relación se manifiesta de manera clara en prácticas como **la ofrenda del Día de Muertos**, donde los objetos, alimentos y símbolos funcionan como puentes entre el mundo de los vivos y el de los muertos.
+Esta relación se manifiesta de manera clara en prácticas como [la ofrenda del Día de Muertos](/tradiciones/ofrenda-dia-de-muertos/), donde los objetos, alimentos y símbolos funcionan como puentes entre el mundo de los vivos y el de los muertos.
 
 ## Simbolismo de los elementos rituales
 
 Los elementos utilizados en rituales relacionados con la muerte poseían significados específicos. Flores, alimentos, fuego y agua eran símbolos recurrentes que representaban conceptos como guía espiritual, purificación y renovación.
 
-Un ejemplo destacado es el uso del cempasúchil, flor asociada al tránsito del alma y a la orientación simbólica de los difuntos. Su función ritual puede explorarse con mayor profundidad en el análisis sobre **el simbolismo ancestral del cempasúchil dentro del Día de Muertos**.
+Un ejemplo destacado es el uso del cempasúchil, flor asociada al tránsito del alma y a la orientación simbólica de los difuntos. Su función ritual puede explorarse con mayor profundidad en el análisis sobre [el simbolismo ancestral del cempasúchil dentro del Día de Muertos](/tradiciones/cempasuchil-simbolismo/).
 
 Estos símbolos no eran decorativos, sino portadores de una visión del mundo profundamente estructurada.
 
@@ -55,7 +55,7 @@ A través de rituales, símbolos y prácticas comunitarias, esta visión ha perm
 
 Comprender la cosmovisión mesoamericana de la muerte es clave para interpretar el sentido profundo del Día de Muertos. Esta tradición no puede entenderse únicamente como una festividad, sino como una expresión cultural que articula historia, ritual y memoria colectiva.
 
-Para una visión más amplia de cómo estas ideas se integran en la celebración, es recomendable revisar el análisis sobre **el Día de Muertos: origen, significado y evolución**, donde se exploran los procesos históricos y culturales que dieron forma a esta tradición.
+Para una visión más amplia de cómo estas ideas se integran en la celebración, es recomendable revisar el análisis sobre [el Día de Muertos: origen, significado y evolución](/tradiciones/dia-de-muertos-origen-significado/), donde se exploran los procesos históricos y culturales que dieron forma a esta tradición.
 
 ## Reflexión final
 
