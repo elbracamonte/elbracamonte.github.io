@@ -3,8 +3,8 @@ layout: post
 title: "Orígenes prehispánicos del Día de Muertos"
 description: "Análisis histórico de los orígenes prehispánicos del Día de Muertos, su relación con la cosmovisión mesoamericana y los rituales dedicados a los muertos antes de la conquista."
 categories: [tradiciones]
-image: /assets/img/historia/origenes-prehispanicos-dia-de-muertos.webp
-image_alt: "Representación de rituales funerarios en la cosmovisión mesoamericana prehispánica"
+image: /assets/img/tradiciones/origenes-prehispanicos-dia-de-muertos.webp
+image_alt: "Representación simbólica de rituales funerarios en la cosmovisión mesoamericana prehispánica"
 ---
 
 El Día de Muertos es una de las tradiciones más complejas y profundas de la cultura mexicana. Aunque hoy se manifiesta a través de ofrendas, altares y celebraciones comunitarias, sus raíces se encuentran en antiguas concepciones indígenas sobre la vida, la muerte y el tránsito espiritual.
