@@ -634,3 +634,49 @@ footer {
     white-space: nowrap;
   }
 }
+
+/* =========================
+   ARTÍCULOS FUNDAMENTALES — TARJETAS EDITORIALES
+========================= */
+
+.home-pillars .pillar-card {
+  border: 1px solid rgba(0,0,0,0.10);
+  background: rgba(255,255,255,0.35);
+  padding: 20px 22px 24px;
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease;
+}
+
+.home-pillars .pillar-card h3 a {
+  color: #111;
+  text-decoration: none;
+  transition: color 0.18s ease;
+}
+
+/* Hover editorial sobrio */
+.home-pillars .pillar-card:hover,
+.home-pillars .pillar-card:focus-within {
+  transform: translateY(-2px);
+  border-color: rgba(0,0,0,0.22);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+
+/* El foco visual es el título */
+.home-pillars .pillar-card:hover h3 a,
+.home-pillars .pillar-card:focus-within h3 a {
+  color: #000;
+}
+
+/* Eliminamos cualquier subrayado residual */
+.home-pillars .pillar-card h3 a:hover {
+  text-decoration: none;
+}
+
+/* Accesibilidad: foco visible sin romper estética */
+.home-pillars .pillar-card:focus-within {
+  box-shadow:
+    0 0 0 3px rgba(0,0,0,0.10),
+    0 6px 18px rgba(0,0,0,0.06);
+}
