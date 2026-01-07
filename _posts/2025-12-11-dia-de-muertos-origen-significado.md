@@ -45,7 +45,7 @@ La ofrenda es el corazón del Día de Muertos. Cada uno de sus elementos posee u
 Entre los elementos más comunes se encuentran:
 
 - El altar, que representa el espacio de encuentro entre el mundo de los vivos y el de los muertos  
-- [El pan de muerto](/gastronomia/pan-de-muerto/), símbolo de fraternidad y del ciclo de la vida  
+- [El pan de muerto](/tradiciones/pan-de-muerto/), símbolo de fraternidad y del ciclo de la vida  
 - El agua, destinada a saciar la sed del alma tras su largo viaje  
 - [Las flores de cempasúchil](/tradiciones/cempasuchil-simbolismo/), que guían a los difuntos con su color y aroma  
 - Las fotografías, que evocan la memoria individual y familiar  
