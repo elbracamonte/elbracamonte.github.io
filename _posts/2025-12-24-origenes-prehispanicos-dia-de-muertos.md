@@ -11,8 +11,6 @@ El Día de Muertos es una de las tradiciones más complejas y profundas de la cu
 
 Este trasfondo histórico es fundamental para comprender el significado actual del [Día de Muertos: origen, significado y evolución](/tradiciones/dia-de-muertos-origen-significado/), una celebración que conserva elementos simbólicos heredados de las culturas mesoamericanas.
 
-Para comprender el significado actual de esta celebración, es necesario remontarse a los rituales y creencias de los pueblos mesoamericanos, donde la muerte no era concebida como un final, sino como una etapa más dentro del ciclo de la existencia.
-
 ## La muerte en la cosmovisión mesoamericana
 
 En las culturas prehispánicas, la muerte formaba parte del orden natural del universo. La vida y la muerte no se entendían como opuestos, sino como fuerzas complementarias que garantizaban el equilibrio del mundo.
