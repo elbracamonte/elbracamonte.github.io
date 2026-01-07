@@ -9,11 +9,13 @@ image_alt: "Celebración tradicional del Día de Muertos en México"
 
 El Día de Muertos es una de las tradiciones más representativas de México y una de las expresiones culturales que mayor interés despiertan a nivel internacional. Cada año, entre finales de octubre y principios de noviembre, las familias honran a sus difuntos mediante rituales, ofrendas y símbolos que conectan el presente con una memoria ancestral.
 
-Lejos de ser una celebración de la muerte, el Día de Muertos es un diálogo con la memoria. Su origen se remonta a las cosmovisiones prehispánicas y se transforma con el paso del tiempo a través de un complejo proceso de sincretismo cultural. Comprender esta tradición implica recorrer siglos de historia, identidad y resistencia cultural.
+Lejos de ser una celebración de la muerte, el Día de Muertos es un diálogo con la memoria. Sus raíces se encuentran en los [orígenes prehispánicos del Día de Muertos](/tradiciones/origenes-prehispanicos-dia-de-muertos/), donde diversas culturas mesoamericanas desarrollaron una concepción ritual de la muerte como parte del ciclo de la existencia. Con el paso del tiempo, esta visión se transformó a través de un complejo proceso de sincretismo cultural, dando lugar a la tradición que hoy conocemos.
+
+Comprender el Día de Muertos implica recorrer siglos de historia, identidad y resistencia cultural que siguen presentes en la vida comunitaria de México.
 
 ## Orígenes prehispánicos del Día de Muertos
 
-Antes de la llegada de los españoles, diversas culturas mesoamericanas concebían la muerte como una etapa más del ciclo de la existencia. Para pueblos como los mexicas, purépechas, mayas y totonacas, el destino de las almas no dependía de la forma moral de vida, sino del tipo de muerte.
+Antes de la llegada de los españoles, diversas culturas mesoamericanas concebían la muerte como una etapa más del ciclo de la existencia. Para pueblos como los mexicas, purépechas, mayas y totonacas, el destino de las almas no dependía de la conducta moral en vida, sino del tipo de muerte que habían experimentado.
 
 En la cosmovisión mexica, por ejemplo, existía el Mictlán, un inframundo al que llegaban la mayoría de los difuntos tras superar un largo viaje espiritual. Las ceremonias dedicadas a los muertos formaban parte esencial del calendario ritual y estaban vinculadas a deidades como Mictecacíhuatl, la llamada “Señora de la Muerte”.
 
@@ -27,7 +29,7 @@ Con la conquista española en el siglo XVI, las prácticas indígenas relacionad
 
 Este proceso de sincretismo no implicó la desaparición de las creencias originarias, sino su transformación. Elementos como las cruces, las imágenes religiosas y las fechas litúrgicas se integraron a rituales que conservaron una visión indígena del vínculo entre vivos y muertos.
 
-El resultado fue una tradición única, profundamente mestiza, que expresa la compleja historia cultural de México.
+El resultado fue una tradición profundamente mestiza que expresa la compleja historia cultural de México.
 
 ## El significado simbólico de la ofrenda
 
