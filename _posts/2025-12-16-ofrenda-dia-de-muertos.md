@@ -60,7 +60,7 @@ Las imágenes de los difuntos evocan la memoria individual y familiar. Colocarla
 
 La ofrenda del Día de Muertos no es un simple conjunto de objetos, sino un acto simbólico que expresa la relación de la sociedad mexicana con la muerte, la memoria y el tiempo.
 
-Esta visión de la muerte como continuidad y no como ausencia definitiva tiene raíces profundas en el pensamiento indígena, particularmente en la manera en que los pueblos mesoamericanos concebían el tránsito entre la vida y la muerte, como se explica en el análisis sobre [la cosmovisión mesoamericana de la muerte](/tradiciones/cosmovision-de-la-muerte/)
+Esta visión de la muerte como continuidad y no como ausencia definitiva tiene raíces profundas en el pensamiento indígena, particularmente en la manera en que los pueblos mesoamericanos concebían el tránsito entre la vida y la muerte, como se explica en el análisis sobre [la cosmovisión mesoamericana de la muerte](/tradiciones/cosmovision-mesoamericana-de-la-muerte/)
 
 A través de ella, se transmite una visión del mundo en la que la muerte no implica ausencia definitiva, sino una presencia recordada y honrada dentro de la vida comunitaria.
 
