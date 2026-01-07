@@ -136,23 +136,31 @@ footer {
 
 .home-hero {
   text-align: center;
-  margin: 80px 0;
+  margin: 100px 0 60px;
 }
 
 .home-hero h1 {
-  font-size: 3rem;
+  font-size: 2.4rem;
   margin-bottom: 10px;
 }
 
 .home-tagline {
-  font-size: 1.2rem;
-  max-width: 600px;
-  margin: 20px auto;
+  font-size: 1.15rem;
+  max-width: 520px;
+  margin: 20px auto 0;
   color: #444;
+}
+
+.home-intro {
+  max-width: 720px;
+  margin: 60px auto 100px;
+  font-size: 1.05rem;
+  color: #333;
 }
 
 .home-pillars {
   margin: 80px 0;
+  margin-bottom: 120px;
 }
 
 .home-pillars h2 {
@@ -176,12 +184,26 @@ footer {
   font-size: 0.95rem;
 }
 
+.pillar-card {
+  padding-top: 10px;
+}
+
+.pillar-label {
+  display: inline-block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #777;
+  margin-bottom: 8px;
+}
+
 /* =========================
-   HOME — ÚLTIMOS ARTÍCULOS
+   HOME — ÚLTIMOS ARTÍCULOS (NUEVO: TARJETAS)
 ========================= */
 
 .home-latest {
   margin: 80px 0;
+  margin-bottom: 100px;
 }
 
 .home-latest h2 {
@@ -189,6 +211,7 @@ footer {
   margin-bottom: 20px;
 }
 
+/* Mantengo tus listas por si las usas en otro lugar */
 .home-latest ul {
   list-style: none;
   padding: 0;
@@ -213,6 +236,7 @@ footer {
 
 .home-categories {
   margin: 80px 0;
+  margin-bottom: 120px;
 }
 
 .home-categories h2 {
@@ -265,26 +289,6 @@ footer {
    UX/UI ADICIONAL
 ========================= */
 
-.home-intro {
-  max-width: 700px;
-  margin: 60px auto;
-  font-size: 1.05rem;
-  color: #333;
-}
-
-.pillar-card {
-  padding-top: 10px;
-}
-
-.pillar-label {
-  display: inline-block;
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: #777;
-  margin-bottom: 8px;
-}
-
 .latest-list {
   list-style: none;
   padding: 0;
@@ -300,40 +304,6 @@ footer {
   display: flex;
   gap: 24px;
   flex-wrap: wrap;
-}
-
-.home-hero {
-  text-align: center;
-  margin: 100px 0 60px;
-}
-
-.home-hero h1 {
-  font-size: 2.4rem;
-}
-
-.home-tagline {
-  font-size: 1.15rem;
-  max-width: 520px;
-  margin: 20px auto 0;
-  color: #444;
-}
-
-.home-intro {
-  max-width: 720px;
-  margin: 60px auto 100px;
-  font-size: 1.05rem;
-}
-
-.home-pillars {
-  margin-bottom: 120px;
-}
-
-.home-latest {
-  margin-bottom: 100px;
-}
-
-.home-categories {
-  margin-bottom: 120px;
 }
 
 /* =========================
@@ -425,6 +395,143 @@ footer {
 
 .category-list li {
   margin-bottom: 14px;
+}
+
+/* =========================
+   NUEVO — BLOQUES EDITORIALES + TARJETAS (HOME / CATEGORÍAS)
+========================= */
+
+.section-head {
+  max-width: 860px;
+  margin: 0 auto 28px;
+}
+
+.section-subtitle {
+  margin: 10px 0 0;
+  opacity: 0.85;
+  line-height: 1.6;
+}
+
+/* Grids de tarjetas */
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.post-card {
+  border: 1px solid rgba(0,0,0,0.10);
+  background: rgba(255,255,255,0.35);
+  overflow: hidden;
+}
+
+.post-card-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.post-card-media {
+  width: 100%;
+  aspect-ratio: 1200 / 630;
+  background: rgba(0,0,0,0.06);
+  overflow: hidden;
+}
+
+.post-card-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.post-card-body {
+  padding: 18px 18px 20px;
+}
+
+.post-card-meta {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-size: 0.92rem;
+  opacity: 0.85;
+}
+
+.post-card-kicker {
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+}
+
+.post-card-title {
+  margin: 10px 0 10px;
+  line-height: 1.25;
+}
+
+.post-card-excerpt {
+  margin: 0;
+  line-height: 1.75;
+  opacity: 0.9;
+}
+
+.post-card:hover,
+.post-card:focus-within {
+  border-color: rgba(0,0,0,0.18);
+}
+
+.home-more {
+  max-width: 860px;
+  margin: 22px auto 0;
+}
+
+/* Categorías como tarjetas */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.category-card {
+  border: 1px solid rgba(0,0,0,0.10);
+  background: rgba(255,255,255,0.35);
+  padding: 18px 18px 20px;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.category-title {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.category-desc {
+  display: block;
+  opacity: 0.9;
+  line-height: 1.7;
+}
+
+.category-card:hover,
+.category-card:focus {
+  border-color: rgba(0,0,0,0.18);
+}
+
+/* Responsive para grids (no toca tu header mobile) */
+@media (max-width: 980px) {
+  .post-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .category-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .post-grid,
+  .category-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* =========================
