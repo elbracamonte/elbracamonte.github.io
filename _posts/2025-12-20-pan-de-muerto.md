@@ -33,7 +33,7 @@ El pan de muerto adquiere su significado pleno cuando se coloca dentro de la ofr
 
 <figure>
   <img
-    src="/assets/img/gastronomia/ofrenda-pan-de-muerto.webp"
+    src="/assets/img/tradiciones/ofrenda-pan-de-muerto.webp"
     alt="Pan de muerto en una ofrenda tradicional del Día de Muertos">
   <figcaption>
     Su forma y decoración aluden al ciclo de la vida y la muerte, y su presencia refuerza el carácter ritual y comunitario de la celebración.
