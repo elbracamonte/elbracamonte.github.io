@@ -576,3 +576,43 @@ footer {
     white-space: nowrap;
   }
 }
+
+/* =========================
+   HOVER EDITORIAL — TARJETAS HOME
+========================= */
+
+.post-card {
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease;
+}
+
+.post-card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.post-card:hover,
+.post-card:focus-within {
+  transform: translateY(-2px);
+  border-color: rgba(0, 0, 0, 0.22);
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.06);
+}
+
+/* El foco visual debe ser el título */
+.post-card:hover .post-card-title,
+.post-card:focus-within .post-card-title {
+  color: #000;
+}
+
+/* Eliminamos cualquier subrayado residual */
+.post-card a:hover {
+  text-decoration: none;
+}
+
+/* Cursor semántico */
+.post-card-link {
+  cursor: pointer;
+}
