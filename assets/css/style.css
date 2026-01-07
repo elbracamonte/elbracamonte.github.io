@@ -717,6 +717,7 @@ footer {
 /* Hover sobrio */
 .home-more a:hover {
   color: #000;
+  text-decoration: none;
 }
 
 .home-more a:hover::after {
