@@ -9,9 +9,7 @@ image_alt: "Representación simbólica de la muerte en la cosmovisión mesoameri
 
 En las culturas mesoamericanas, la muerte no se concebía como un final absoluto, sino como una transformación dentro de un ciclo continuo de existencia. Esta visión profunda y compleja dio forma a rituales, creencias y prácticas culturales que aún hoy influyen en la manera en que México entiende la vida, la muerte y la memoria.
 
-Comprender la cosmovisión mesoamericana de la muerte permite acercarse a una forma distinta de interpretar el mundo, donde el tránsito entre planos no implica ruptura, sino continuidad. Esta concepción es fundamental para entender [el significado cultural del Día de Muertos en México](/tradiciones/dia-de-muertos-origen-significado/), una tradición que conserva múltiples elementos de este pensamiento ancestral.
-
-Esta concepción de la muerte tiene una base histórica profunda que puede rastrearse en los [orígenes prehispánicos del Día de Muertos](/tradiciones/origenes-prehispanicos-dia-de-muertos/), donde los rituales funerarios y las creencias sobre el tránsito del alma formaban parte central de la vida espiritual mesoamericana.
+Comprender la cosmovisión mesoamericana de la muerte permite acercarse a una forma distinta de interpretar el mundo, donde el tránsito entre planos no implica ruptura, sino continuidad. Esta concepción, con una base histórica profunda, puede rastrearse en los [orígenes prehispánicos del Día de Muertos](/tradiciones/origenes-prehispanicos-dia-de-muertos/), y resulta fundamental para entender [el significado cultural del Día de Muertos en México](/tradiciones/dia-de-muertos-origen-significado/), una tradición que conserva múltiples elementos de este pensamiento ancestral.
 
 ## La muerte como parte del ciclo de la vida
 
