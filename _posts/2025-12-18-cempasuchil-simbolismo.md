@@ -50,7 +50,7 @@ El simbolismo del cempasúchil está estrechamente ligado a la manera en que las
   </figcaption>
 </figure>
 
-La función de guía atribuida al cempasúchil refleja esta visión del tránsito del alma y se relaciona directamente con la manera en que se concebía el más allá. Este enfoque puede explorarse con mayor profundidad en el análisis sobre [la cosmovisión mesoamericana de la muerte](/tradiciones/cosmovision-de-la-muerte/).
+La función de guía atribuida al cempasúchil refleja esta visión del tránsito del alma y se relaciona directamente con la manera en que se concebía el más allá. Este enfoque puede explorarse con mayor profundidad en el análisis sobre [la cosmovisión mesoamericana de la muerte](/tradiciones/cosmovision-mesoamericana-de-la-muerte/).
 
 ## El cempasúchil en la actualidad
 
