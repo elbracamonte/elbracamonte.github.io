@@ -572,6 +572,11 @@ footer {
   box-shadow: 0 0 0 3px rgba(0,0,0,0.10), 0 6px 18px rgba(0,0,0,0.06);
 }
 
+/* Eliminamos subrayado residual */
+.category-card span:hover {
+  text-decoration: none;
+}
+
 /* =========================
    Responsive para grids
 ========================= */
