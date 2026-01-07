@@ -5,23 +5,27 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
 ---
 
 <section class="home-hero">
-  <h1>Archivo cultural de México</h1>
-  <p class="home-tagline">
-    Tradiciones, gastronomía e historia documentadas desde una mirada cultural.
-  </p>
+  <div class="hero-inner">
+    <h1>Archivo cultural de México</h1>
+    <p class="home-tagline">
+      Tradiciones, gastronomía e historia documentadas desde una mirada cultural.
+    </p>
+  </div>
 </section>
 
 <section class="home-intro">
-  <p>
-    <strong>El México Bárbaro</strong> es un proyecto editorial independiente
-    dedicado a la divulgación cultural. A través de artículos de análisis
-    histórico y reflexión cultural, este archivo busca preservar y difundir
+  <p class="home-lead">
+    <strong>El México Bárbaro</strong> es un proyecto editorial independiente dedicado a la divulgación cultural.
+    A través de artículos de análisis histórico y reflexión cultural, este archivo busca preservar y difundir
     las expresiones que han dado forma a México a lo largo del tiempo.
   </p>
 </section>
 
 <section class="home-pillars">
-  <h2>Artículos fundamentales</h2>
+  <div class="section-head">
+    <h2>Artículos fundamentales</h2>
+    <p class="section-subtitle">Puntos de entrada para explorar cada línea editorial.</p>
+  </div>
 
   <div class="pillars-grid">
     <article class="pillar-card">
@@ -32,8 +36,7 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
         </a>
       </h3>
       <p>
-        Un análisis histórico y cultural de una de las tradiciones más
-        representativas de México y de su relación con la memoria colectiva.
+        Un análisis histórico y cultural de una de las tradiciones más representativas de México y de su relación con la memoria colectiva.
       </p>
     </article>
 
@@ -45,8 +48,7 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
         </a>
       </h3>
       <p>
-        El grano que sustenta la gastronomía mexicana y articula una visión
-        cultural que conecta alimentación, territorio e identidad.
+        El grano que sustenta la gastronomía mexicana y articula una visión cultural que conecta alimentación, territorio e identidad.
       </p>
     </article>
 
@@ -58,29 +60,82 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
         </a>
       </h3>
       <p>
-        Un recorrido por las civilizaciones mesoamericanas y las ideas que
-        sentaron las bases históricas de México.
+        Un recorrido por las civilizaciones mesoamericanas y las ideas que sentaron las bases históricas de México.
       </p>
     </article>
   </div>
 </section>
 
 <section class="home-latest">
-  <h2>Últimas publicaciones</h2>
-  <ul class="latest-list">
-    {% for post in site.posts limit:5 %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
+  <div class="section-head">
+    <h2>Últimas publicaciones</h2>
+    <p class="section-subtitle">Lecturas recientes y actualizaciones del archivo.</p>
+  </div>
+
+  <div class="post-grid">
+    {% for post in site.posts limit:6 %}
+      <article class="post-card">
+        <a class="post-card-link" href="{{ post.url }}">
+          {% if post.image %}
+            <div class="post-card-media">
+              <img
+                src="{{ post.image }}"
+                alt="{{ post.image_alt | default: post.title }}"
+                loading="lazy"
+                decoding="async"
+                width="1200"
+                height="630">
+            </div>
+          {% endif %}
+
+          <div class="post-card-body">
+            <div class="post-card-meta">
+              {% if post.categories and post.categories.size > 0 %}
+                <span class="post-card-kicker">{{ post.categories[0] | capitalize }}</span>
+              {% endif %}
+              <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%d %b, %Y" }}
+              </time>
+            </div>
+
+            <h3 class="post-card-title">{{ post.title }}</h3>
+
+            {% if post.description %}
+              <p class="post-card-excerpt">{{ post.description }}</p>
+            {% else %}
+              <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+            {% endif %}
+          </div>
+        </a>
+      </article>
     {% endfor %}
-  </ul>
+  </div>
+
+  <p class="home-more">
+    <a href="/posts/">Ver todos los artículos</a>
+  </p>
 </section>
 
 <section class="home-categories">
-  <h2>Explorar por categoría</h2>
-  <ul class="category-list">
-    <li><a href="/tradiciones/">Tradiciones</a></li>
-    <li><a href="/gastronomia/">Gastronomía</a></li>
-    <li><a href="/historia/">Historia</a></li>
-  </ul>
+  <div class="section-head">
+    <h2>Explorar por categoría</h2>
+    <p class="section-subtitle">Portadas editoriales para navegar por temas.</p>
+  </div>
+
+  <div class="category-grid">
+    <a class="category-card" href="/tradiciones/">
+      <span class="category-title">Tradiciones</span>
+      <span class="category-desc">Rituales, celebraciones y símbolos de la vida comunitaria.</span>
+    </a>
+
+    <a class="category-card" href="/gastronomia/">
+      <span class="category-title">Gastronomía</span>
+      <span class="category-desc">Alimentos, territorio e identidad cultural.</span>
+    </a>
+
+    <a class="category-card" href="/historia/">
+      <span class="category-title">Historia</span>
+      <span class="category-desc">Procesos, contextos y legado mesoamericano.</span>
+    </a>
+  </div>
 </section>
