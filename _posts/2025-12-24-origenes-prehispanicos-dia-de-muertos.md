@@ -29,6 +29,15 @@ Lejos de ser actos de despedida definitiva, estas ceremonias expresaban una rela
 
 En la tradición mexica, la mayoría de los difuntos emprendía un largo recorrido hacia el Mictlán, el inframundo gobernado por Mictlantecuhtli y Mictecacíhuatl. Este viaje espiritual implicaba diversas pruebas que el alma debía superar antes de alcanzar su destino final.
 
+<figure>
+  <img
+    src="/assets/img/tradiciones/mictlan-destino-almas.webp"
+    alt="Representación del Mictlán en la cosmovisión mexica, con el tránsito de las almas hacia el inframundo gobernado por Mictlantecuhtli y Mictecacíhuatl">
+  <figcaption>
+    En la tradición mexica, el Mictlán era concebido como el destino final de la mayoría de las almas, un recorrido espiritual marcado por pruebas y etapas que reflejan la muerte como un proceso de tránsito y transformación.
+  </figcaption>
+</figure>
+
 La concepción del Mictlán refleja una visión de la muerte como proceso, no como ruptura, y constituye uno de los antecedentes simbólicos más importantes de las prácticas rituales que, siglos después, darían forma al Día de Muertos.
 
 ## De los rituales indígenas a la tradición actual
