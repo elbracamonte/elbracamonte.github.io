@@ -17,7 +17,7 @@ Para comprender el significado actual de esta celebración, es necesario remonta
 
 En las culturas prehispánicas, la muerte formaba parte del orden natural del universo. La vida y la muerte no se entendían como opuestos, sino como fuerzas complementarias que garantizaban el equilibrio del mundo.
 
-Esta visión está estrechamente vinculada a la **cosmovisión mesoamericana de la muerte**, en la que el destino del alma no dependía de una noción moral, sino del tipo de muerte que había experimentado el individuo. Para profundizar en esta concepción, puedes consultar el artículo sobre la [cosmovisión mesoamericana de la muerte](/tradiciones/cosmovision-muerte-mesoamerica/).
+Esta visión está estrechamente vinculada a la **cosmovisión mesoamericana de la muerte**, en la que el destino del alma no dependía de una noción moral, sino del tipo de muerte que había experimentado el individuo. Para profundizar en esta concepción, puedes consultar el artículo sobre la [cosmovisión mesoamericana de la muerte](/tradiciones/cosmovision-mesoamericana-de-la-muerte/).
 
 ## Rituales funerarios en las culturas prehispánicas
 
