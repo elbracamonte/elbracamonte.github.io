@@ -11,7 +11,7 @@ El Día de Muertos es una de las tradiciones más representativas de México y u
 
 Lejos de ser una celebración de la muerte, el Día de Muertos es un diálogo con la memoria. Sus raíces se encuentran en los [orígenes prehispánicos del Día de Muertos](/tradiciones/origenes-prehispanicos-dia-de-muertos/), donde diversas culturas mesoamericanas desarrollaron una concepción ritual de la muerte como parte del ciclo de la existencia. Con el paso del tiempo, esta visión se transformó a través de un complejo proceso de sincretismo cultural, dando lugar a la tradición que hoy conocemos.
 
-Comprender el Día de Muertos implica recorrer siglos de historia, identidad y resistencia cultural que siguen presentes en la vida comunitaria de México.
+Comprender el Día de Muertos implica recorrer siglos de historia, identidad y resistencia cultural, donde las creencias indígenas, los rituales comunitarios y la memoria colectiva siguen dialogando con el presente.
 
 ## Orígenes prehispánicos del Día de Muertos
 
