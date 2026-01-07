@@ -680,3 +680,46 @@ footer {
     0 0 0 3px rgba(0,0,0,0.10),
     0 6px 18px rgba(0,0,0,0.06);
 }
+
+/* =========================
+   HOME — LINK ARCHIVO COMPLETO
+========================= */
+
+.home-more {
+  margin-top: 26px;
+}
+
+.home-more a {
+  display: inline-block;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #222;
+  text-decoration: none;
+  position: relative;
+  padding-bottom: 2px;
+  transition: color 0.18s ease;
+}
+
+/* Línea editorial sutil */
+.home-more a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  background: rgba(0,0,0,0.25);
+  transition:
+    background 0.18s ease,
+    transform 0.18s ease;
+}
+
+/* Hover sobrio */
+.home-more a:hover {
+  color: #000;
+}
+
+.home-more a:hover::after {
+  background: rgba(0,0,0,0.45);
+  transform: translateY(1px);
+}
