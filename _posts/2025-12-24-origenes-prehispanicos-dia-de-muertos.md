@@ -41,7 +41,7 @@ Elementos como la ofrenda, el uso de flores, el recuerdo anual de los difuntos y
 
 La celebración contemporánea del Día de Muertos sintetiza siglos de transformación histórica sin perder su núcleo simbólico original. La relación con la memoria, el respeto a los ancestros y la concepción cíclica del tiempo siguen presentes en la tradición actual.
 
-Incluso elementos específicos como el uso de las flores de cempasúchil mantienen un vínculo directo con antiguas prácticas indígenas, como se explica en el artículo dedicado al [significado del cempasúchil en el Día de Muertos](/tradiciones/flor-de-cempasuchil/).
+Incluso elementos específicos como el uso de las flores de cempasúchil mantienen un vínculo directo con antiguas prácticas indígenas, como se explica en el artículo dedicado al [significado del cempasúchil en el Día de Muertos](/tradiciones/cempasuchil-simbolismo/).
 
 ## Un legado cultural vivo
 
