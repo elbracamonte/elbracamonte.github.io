@@ -198,7 +198,7 @@ footer {
 }
 
 /* =========================
-   HOME — ÚLTIMOS ARTÍCULOS (NUEVO: TARJETAS)
+   HOME — ÚLTIMOS ARTÍCULOS
 ========================= */
 
 .home-latest {
@@ -231,7 +231,7 @@ footer {
 }
 
 /* =========================
-   HOME — CATEGORÍAS
+   HOME — CATEGORÍAS (LEGACY)
 ========================= */
 
 .home-categories {
@@ -353,9 +353,6 @@ footer {
   font-weight: 600;
   letter-spacing: 0.5px;
   line-height: 1;
-}
-
-.brand-text {
   font-family: 'Georgia', serif;
   font-weight: 700;
 }
@@ -398,7 +395,7 @@ footer {
 }
 
 /* =========================
-   NUEVO — BLOQUES EDITORIALES + TARJETAS (HOME / CATEGORÍAS)
+   BLOQUES EDITORIALES + TARJETAS (HOME)
 ========================= */
 
 .section-head {
@@ -412,7 +409,11 @@ footer {
   line-height: 1.6;
 }
 
-/* Grids de tarjetas */
+/* =========================
+   SISTEMA DE TARJETAS (UNIFICADO)
+   - Mismo hover para posts y categorías
+========================= */
+
 .post-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -423,12 +424,18 @@ footer {
   border: 1px solid rgba(0,0,0,0.10);
   background: rgba(255,255,255,0.35);
   overflow: hidden;
+
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease;
 }
 
 .post-card-link {
   display: block;
   color: inherit;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .post-card-media {
@@ -466,6 +473,9 @@ footer {
 .post-card-title {
   margin: 10px 0 10px;
   line-height: 1.25;
+  color: #111;
+
+  transition: color 0.18s ease;
 }
 
 .post-card-excerpt {
@@ -474,17 +484,40 @@ footer {
   opacity: 0.9;
 }
 
+/* Hover editorial: sobrio y profesional */
 .post-card:hover,
 .post-card:focus-within {
-  border-color: rgba(0,0,0,0.18);
+  transform: translateY(-2px);
+  border-color: rgba(0, 0, 0, 0.22);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
 }
 
-.home-more {
-  max-width: 860px;
-  margin: 22px auto 0;
+/* El foco visual debe ser el título */
+.post-card:hover .post-card-title,
+.post-card:focus-within .post-card-title {
+  color: #000;
 }
 
-/* Categorías como tarjetas */
+/* Eliminamos subrayado residual */
+.post-card a:hover {
+  text-decoration: none;
+}
+
+/* Focus accesible */
+.post-card-link:focus,
+.post-card-link:focus-visible {
+  outline: none;
+}
+
+/* Si el foco cae en un elemento interno, mantenemos el highlight */
+.post-card:focus-within {
+  box-shadow: 0 0 0 3px rgba(0,0,0,0.10), 0 6px 18px rgba(0,0,0,0.06);
+}
+
+/* =========================
+   CATEGORÍAS COMO TARJETAS (Mismo estilo)
+========================= */
+
 .category-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -498,12 +531,20 @@ footer {
   text-decoration: none;
   color: inherit;
   display: block;
+
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease;
 }
 
 .category-title {
   display: block;
   font-weight: 700;
   margin-bottom: 8px;
+  color: #111;
+
+  transition: color 0.18s ease;
 }
 
 .category-desc {
@@ -512,12 +553,29 @@ footer {
   line-height: 1.7;
 }
 
+/* Hover editorial + focus accesible */
 .category-card:hover,
-.category-card:focus {
-  border-color: rgba(0,0,0,0.18);
+.category-card:focus-within {
+  transform: translateY(-2px);
+  border-color: rgba(0, 0, 0, 0.22);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
 }
 
-/* Responsive para grids (no toca tu header mobile) */
+.category-card:hover .category-title,
+.category-card:focus-within .category-title {
+  color: #000;
+}
+
+.category-card:focus,
+.category-card:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0,0,0,0.10), 0 6px 18px rgba(0,0,0,0.06);
+}
+
+/* =========================
+   Responsive para grids
+========================= */
+
 @media (max-width: 980px) {
   .post-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -575,44 +633,4 @@ footer {
     font-size: 0.9rem;
     white-space: nowrap;
   }
-}
-
-/* =========================
-   HOVER EDITORIAL — TARJETAS HOME
-========================= */
-
-.post-card {
-  transition:
-    transform 0.18s ease,
-    box-shadow 0.18s ease,
-    border-color 0.18s ease;
-}
-
-.post-card-link {
-  text-decoration: none;
-  color: inherit;
-}
-
-.post-card:hover,
-.post-card:focus-within {
-  transform: translateY(-2px);
-  border-color: rgba(0, 0, 0, 0.22);
-  box-shadow:
-    0 4px 12px rgba(0, 0, 0, 0.06);
-}
-
-/* El foco visual debe ser el título */
-.post-card:hover .post-card-title,
-.post-card:focus-within .post-card-title {
-  color: #000;
-}
-
-/* Eliminamos cualquier subrayado residual */
-.post-card a:hover {
-  text-decoration: none;
-}
-
-/* Cursor semántico */
-.post-card-link {
-  cursor: pointer;
 }
