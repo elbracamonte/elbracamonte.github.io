@@ -9,6 +9,8 @@ image_alt: "Representación de rituales funerarios en la cosmovisión mesoameric
 
 El Día de Muertos es una de las tradiciones más complejas y profundas de la cultura mexicana. Aunque hoy se manifiesta a través de ofrendas, altares y celebraciones comunitarias, sus raíces se encuentran en antiguas concepciones indígenas sobre la vida, la muerte y el tránsito espiritual.
 
+Este trasfondo histórico es fundamental para comprender el significado actual del [Día de Muertos: origen, significado y evolución](/tradiciones/dia-de-muertos-origen-significado/), una celebración que conserva elementos simbólicos heredados de las culturas mesoamericanas.
+
 Para comprender el significado actual de esta celebración, es necesario remontarse a los rituales y creencias de los pueblos mesoamericanos, donde la muerte no era concebida como un final, sino como una etapa más dentro del ciclo de la existencia.
 
 ## La muerte en la cosmovisión mesoamericana
