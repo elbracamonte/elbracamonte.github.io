@@ -144,6 +144,15 @@ footer {
   margin-bottom: 10px;
 }
 
+.home-kicker {
+  text-align: center;
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #777;
+  margin-top: 6px;
+}
+
 .home-tagline {
   font-size: 1.15rem;
   max-width: 520px;
@@ -738,5 +747,10 @@ footer {
   .home-tagline {
     font-size: 1.05rem;
     margin-top: 14px;
+  }
+
+  .home-intro {
+    margin: 32px auto 64px;
+    font-size: 1rem;
   }
 }
