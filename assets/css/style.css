@@ -724,3 +724,19 @@ footer {
   background: rgba(0,0,0,0.45);
   transform: translateY(1px);
 }
+
+@media (max-width: 640px) {
+  .home-hero {
+    margin: 48px 0 32px;
+  }
+
+  .home-hero h1 {
+    font-size: 1.9rem;
+    line-height: 1.2;
+  }
+
+  .home-tagline {
+    font-size: 1.05rem;
+    margin-top: 14px;
+  }
+}
