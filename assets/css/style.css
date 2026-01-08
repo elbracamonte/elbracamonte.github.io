@@ -802,3 +802,89 @@ footer {
     transform: none !important;
   }
 }
+
+/* =========================
+   HOME — AJUSTES FINOS PARA TU HTML ACTUAL
+   (No rompe lo existente)
+========================= */
+
+/* Link "Ver todos los artículos" (tu HTML usa .home-more-link) */
+.home-more .home-more-link {
+  display: inline-block;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #222;
+  text-decoration: none;
+  position: relative;
+  padding-bottom: 2px;
+  transition: color 0.18s ease;
+}
+
+.home-more .home-more-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  background: rgba(0,0,0,0.25);
+  transition: background 0.18s ease, transform 0.18s ease;
+}
+
+.home-more .home-more-link:hover,
+.home-more .home-more-link:focus-visible {
+  color: #000;
+  text-decoration: none;
+}
+
+.home-more .home-more-link:hover::after,
+.home-more .home-more-link:focus-visible::after {
+  background: rgba(0,0,0,0.45);
+  transform: translateY(1px);
+}
+
+.home-more .home-more-link:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0,0,0,0.10);
+}
+
+/* Pilares: mantener estilo editorial + "sensación" de tarjeta clicable (sin cambiar anchors) */
+.home-pillars .pillar-card {
+  cursor: default;
+}
+
+.home-pillars .pillar-card h3 a {
+  display: inline-block;
+}
+
+/* Si quieres que se sienta más interactivo sin convertir todo en link */
+.home-pillars .pillar-card:hover h3 a,
+.home-pillars .pillar-card:focus-within h3 a {
+  text-decoration: none;
+}
+
+/* Mobile: ajustar densidad visual del home (solo layout, no toca cards) */
+@media (max-width: 640px) {
+  main.content {
+    margin: 26px auto;
+  }
+
+  .section-head {
+    margin: 0 auto 18px;
+  }
+
+  .section-subtitle {
+    margin-top: 8px;
+  }
+
+  .post-card-body {
+    padding: 16px 16px 18px;
+  }
+}
+
+/* Desktop: asegurar que el párrafo largo se vea (tu HTML lo usa) */
+@media (min-width: 980px) {
+  .home-intro-long {
+    display: block;
+  }
+}
