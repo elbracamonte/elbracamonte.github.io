@@ -167,6 +167,20 @@ footer {
   color: #333;
 }
 
+/* NUEVO (sin romper): soporte para intro corta/larga (mobile/desktop) */
+.home-intro-short {
+  margin: 0;
+  font-size: 1.02rem;
+  line-height: 1.8;
+}
+
+.home-intro-long {
+  display: none;
+  margin-top: 16px;
+  font-size: 1.02rem;
+  line-height: 1.85;
+}
+
 .home-pillars {
   margin: 80px 0;
   margin-bottom: 120px;
@@ -734,6 +748,11 @@ footer {
   transform: translateY(1px);
 }
 
+/* =========================
+   HOME — AJUSTES MOBILE (UNIFICACIÓN)
+   (No rompe desktop: solo complementa tu bloque mobile existente)
+========================= */
+
 @media (max-width: 640px) {
   .home-hero {
     margin: 48px 0 32px;
@@ -752,5 +771,34 @@ footer {
   .home-intro {
     margin: 32px auto 64px;
     font-size: 1rem;
+  }
+}
+
+/* Desktop: mostrar párrafo largo si existe */
+@media (min-width: 980px) {
+  .home-intro-long {
+    display: block;
+  }
+}
+
+/* =========================
+   UX — REDUCED MOTION (NUEVO, seguro)
+========================= */
+
+@media (prefers-reduced-motion: reduce) {
+  .post-card,
+  .category-card,
+  .home-pillars .pillar-card,
+  .home-more a::after {
+    transition: none !important;
+  }
+
+  .post-card:hover,
+  .post-card:focus-within,
+  .category-card:hover,
+  .category-card:focus-within,
+  .home-pillars .pillar-card:hover,
+  .home-pillars .pillar-card:focus-within {
+    transform: none !important;
   }
 }
