@@ -5,67 +5,25 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
 ---
 
 <section class="home-hero">
-  <div class="hero-inner">
-    <h1>Archivo cultural de México</h1>
-    <p class="home-tagline">
-      Tradiciones, gastronomía e historia documentadas desde una mirada cultural.
-    </p>
-  </div>
+  <p class="home-kicker">Archivo editorial independiente</p>
+
+  <h1>Archivo cultural de México</h1>
+
+  <p class="home-tagline">
+    Tradiciones, gastronomía e historia de México, documentadas con rigor cultural.
+  </p>
 </section>
 
-<p class="home-kicker">Archivo editorial independiente</p>
-
 <section class="home-intro">
-  <p class="home-lead">
+  <p class="home-intro-short">
+    Un archivo editorial dedicado a preservar y analizar las expresiones culturales que han dado forma a México.
+  </p>
+
+  <p class="home-intro-long">
     <strong>El México Bárbaro</strong> es un proyecto editorial independiente dedicado a la divulgación cultural.
     A través de artículos de análisis histórico y reflexión cultural, este archivo busca preservar y difundir
     las expresiones que han dado forma a México a lo largo del tiempo.
   </p>
-</section>
-
-<section class="home-pillars">
-  <div class="section-head">
-    <h2>Artículos fundamentales</h2>
-    <p class="section-subtitle">Puntos de entrada para explorar cada línea editorial.</p>
-  </div>
-
-  <div class="pillars-grid">
-    <article class="pillar-card">
-      <span class="pillar-label">Tradiciones</span>
-      <h3>
-        <a href="/tradiciones/dia-de-muertos-origen-significado/">
-          El Día de Muertos: origen, significado y evolución
-        </a>
-      </h3>
-      <p>
-        Un análisis histórico y cultural de una de las tradiciones más representativas de México y de su relación con la memoria colectiva.
-      </p>
-    </article>
-
-    <article class="pillar-card">
-      <span class="pillar-label">Gastronomía</span>
-      <h3>
-        <a href="/gastronomia/el-maiz-origen-historia-gastronomia-mexicana/">
-          El maíz: origen, historia y significado cultural
-        </a>
-      </h3>
-      <p>
-        El grano que sustenta la gastronomía mexicana y articula una visión cultural que conecta alimentación, territorio e identidad.
-      </p>
-    </article>
-
-    <article class="pillar-card">
-      <span class="pillar-label">Historia</span>
-      <h3>
-        <a href="/historia/mexico-prehispanico-cosmovision-cultura-legado/">
-          México prehispánico: cosmovisión y legado histórico
-        </a>
-      </h3>
-      <p>
-        Un recorrido por las civilizaciones mesoamericanas y las ideas que sentaron las bases históricas de México.
-      </p>
-    </article>
-  </div>
 </section>
 
 <section class="home-latest">
@@ -78,22 +36,16 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
     {% for post in site.posts limit:6 %}
       <article class="post-card">
         <a class="post-card-link" href="{{ post.url }}">
-          {% if post.image %}
-            <div class="post-card-media">
-              <img
-                src="{{ post.image }}"
-                alt="{{ post.image_alt | default: post.title }}"
-                loading="lazy"
-                decoding="async"
-                width="1200"
-                height="630">
-            </div>
-          {% endif %}
+          <div class="post-card-media">
+            {% if post.image %}
+              <img src="{{ post.image }}" alt="{{ post.image_alt | default: post.title }}">
+            {% endif %}
+          </div>
 
           <div class="post-card-body">
             <div class="post-card-meta">
               {% if post.categories and post.categories.size > 0 %}
-                <span class="post-card-kicker">{{ post.categories[0] | capitalize }}</span>
+                <span class="post-card-kicker">{{ post.categories[0] | upcase }}</span>
               {% endif %}
               <time datetime="{{ post.date | date_to_xmlschema }}">
                 {{ post.date | date: "%d %b, %Y" }}
@@ -104,8 +56,6 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
 
             {% if post.description %}
               <p class="post-card-excerpt">{{ post.description }}</p>
-            {% else %}
-              <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
             {% endif %}
           </div>
         </a>
@@ -113,9 +63,55 @@ description: "Archivo cultural sobre tradiciones, gastronomía e historia de Mé
     {% endfor %}
   </div>
 
-  <p class="home-more">
-    <a href="/posts/">Explorar el archivo</a>
-  </p>
+  <div class="home-more">
+    <!-- Este link lo dejamos listo pero necesitas la página destino /archivo/ -->
+    <a class="home-more-link" href="/archivo/">Ver todos los artículos</a>
+  </div>
+</section>
+
+<section class="home-pillars">
+  <div class="section-head">
+    <h2>Artículos fundamentales</h2>
+    <p class="section-subtitle">Puntos de entrada para explorar cada línea editorial.</p>
+  </div>
+
+  <div class="pillars-grid">
+    <article class="pillar-card pillar-card-link">
+      <span class="pillar-label">Tradiciones</span>
+      <h3>
+        <a href="/tradiciones/dia-de-muertos-origen-significado/">
+          El Día de Muertos: origen, significado y evolución
+        </a>
+      </h3>
+      <p>
+        Un análisis histórico y cultural de una de las tradiciones más representativas de México y de su relación con la memoria colectiva.
+      </p>
+    </article>
+
+    <article class="pillar-card pillar-card-link">
+      <span class="pillar-label">Gastronomía</span>
+      <h3>
+        <a href="/gastronomia/el-maiz-origen-historia-gastronomia-mexicana/">
+          El maíz: origen, historia y significado cultural
+        </a>
+      </h3>
+      <p>
+        El grano que sustenta la gastronomía mexicana y articula una visión cultural que conecta alimentación, territorio e identidad.
+      </p>
+    </article>
+
+    <article class="pillar-card pillar-card-link">
+      <span class="pillar-label">Historia</span>
+      <h3>
+        <a href="/historia/mexico-prehispanico-cosmovision-cultura-legado/">
+          México prehispánico: cosmovisión y legado histórico
+        </a>
+      </h3>
+      <p>
+        Un recorrido por las civilizaciones mesoamericanas y las ideas que sentaron las bases históricas de México.
+      </p>
+    </article>
+  </div>
 </section>
 
 <section class="home-categories">
